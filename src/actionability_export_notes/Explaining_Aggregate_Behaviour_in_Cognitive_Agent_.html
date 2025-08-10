@@ -1,0 +1,266 @@
+<h1>Paper Summary</h1>
+
+<!--META_START-->
+
+<p>Title: Explaining Aggregate Behaviour in Cognitive Agent Simulations Using Explanation  </p>
+
+<p>Authors: Tobias Ahlbrecht, Michael Winikoff  </p>
+
+<p>DOI: https://doi.org/10.1007/978-3-030-30391-4_8  </p>
+
+<p>Year: 2019  </p>
+
+<p>Publication Type: Conference  </p>
+
+<p>Discipline/Domain: Artificial Intelligence, Multi-Agent Systems  </p>
+
+<p>Subdomain/Topic: Cognitive agents, Explainable AI, Agent-based simulation  </p>
+
+<p>Eligibility: Eligible  </p>
+
+<p>Overall Relevance Score: 87  </p>
+
+<p>Operationalization Score: 85  </p>
+
+<p>Contains Definition of Actionability: Yes (implicit, tied to usefulness of explanations for simulation refinement and decision-making)  </p>
+
+<p>Contains Systematic Features/Dimensions: Yes (implicit through explanation properties such as specificity, contextual relevance, and testability)  </p>
+
+<p>Contains Explainability: Yes  </p>
+
+<p>Contains Interpretability: Partial  </p>
+
+<p>Contains Framework/Model: Yes (aggregation mechanism for explanations)  </p>
+
+<p>Operationalization Present: Yes  </p>
+
+<p>Primary Methodology: Conceptual + Simulation-based demonstration  </p>
+
+<p>Study Context: Traffic simulation with cognitive BDI agents  </p>
+
+<p>Geographic/Institutional Context: TU Clausthal, Germany; Victoria University of Wellington, New Zealand  </p>
+
+<p>Target Users/Stakeholders: Simulation developers, researchers, possibly decision-makers using simulation results  </p>
+
+<p>Primary Contribution Type: Methodological framework and proof-of-concept  </p>
+
+<p>CL: Yes  </p>
+
+<p>CR: Yes  </p>
+
+<p>FE: Partial  </p>
+
+<p>TI: Partial  </p>
+
+<p>EX: Yes  </p>
+
+<p>GA: Partial  </p>
+
+<p>Reason if Not Eligible: n/a  </p>
+
+<!--META_END-->
+
+<p><strong>Title:</strong>  </p>
+
+<p>Explaining Aggregate Behaviour in Cognitive Agent Simulations Using Explanation  </p>
+
+<p><strong>Authors:</strong>  </p>
+
+<p>Tobias Ahlbrecht, Michael Winikoff  </p>
+
+<p><strong>DOI:</strong>  </p>
+
+<p>https://doi.org/10.1007/978-3-030-30391-4_8  </p>
+
+<p><strong>Year:</strong>  </p>
+
+<p>2019  </p>
+
+<p><strong>Publication Type:</strong>  </p>
+
+<p>Conference  </p>
+
+<p><strong>Discipline/Domain:</strong>  </p>
+
+<p>Artificial Intelligence, Multi-Agent Systems  </p>
+
+<p><strong>Subdomain/Topic:</strong>  </p>
+
+<p>Cognitive agents, Explainable AI, Agent-based simulation  </p>
+
+<p><strong>Contextual Background:</strong>  </p>
+
+<p>The paper is situated in the context of developing and refining cognitive agent-based simulations, where understanding specific aggregate behaviours—such as emergent traffic congestion patterns—can guide debugging, validation, and scenario testing. The intended users are simulation developers and possibly applied researchers who need detailed, actionable insight into why groups of agents behave in particular ways.  </p>
+
+<p><strong>Geographic/Institutional Context:</strong>  </p>
+
+<p>TU Clausthal (Germany) and Victoria University of Wellington (New Zealand)  </p>
+
+<p><strong>Target Users/Stakeholders:</strong>  </p>
+
+<p>Simulation developers, AI researchers, decision analysts relying on simulation outcomes  </p>
+
+<p><strong>Primary Methodology:</strong>  </p>
+
+<p>Conceptual development with simulation-based illustration (traffic scenario)  </p>
+
+<p><strong>Primary Contribution Type:</strong>  </p>
+
+<p>A method for aggregating individual agent explanations to interpret collective behaviour in simulations  </p>
+
+<hr />
+
+<h2>General Summary of the Paper</h2>
+
+<p>This paper presents a method for obtaining actionable understanding of aggregate behaviour in cognitive agent-based simulations by aggregating individual agent explanations. Built on the BDI (Belief-Desire-Intention) agent model and an explanation mechanism for single-agent behaviour, the approach combines explanations from multiple agents to answer queries about collective actions or emergent phenomena. A traffic simulation case study demonstrates the method: explanations for why agents choose specific routes are aggregated to reveal behavioural patterns, test hypotheses (e.g., effect of bridge closures), and detect unrealistic decision-making logic. The authors also outline a process where human analysts use aggregated explanations iteratively to refine questions, run counterfactual tests, and improve simulations.  </p>
+
+<hr />
+
+<h2>Eligibility</h2>
+
+<p>Eligible for inclusion: <strong>Yes</strong>  </p>
+
+<hr />
+
+<h2>How Actionability is Understood</h2>
+
+<p>The paper implicitly defines actionability as the capacity of aggregated explanations to support simulation developers in understanding, validating, and improving simulations—particularly by enabling specific, testable insights about group behaviour. Actionability arises when explanations help identify causes, guide counterfactual experimentation, and inform targeted changes.  </p>
+
+<blockquote>
+  <p>“...obtain useful (and actionable) insight into the behaviour of agent-based simulation...” (p. 129)  </p>
+</blockquote>
+
+<blockquote>
+  <p>“...this link would become less used. This hypothesis was therefore tested by re-running the simulation...” (p. 140)  </p>
+</blockquote>
+
+<hr />
+
+<h2>What Makes Something Actionable</h2>
+
+<ul>
+<li><p>Specific to the scenario and time frame (not just generic dynamics)  </p></li>
+<li><p>Links aggregate behaviour to identifiable causal factors  </p></li>
+<li><p>Supports hypothesis testing via simulation modification  </p></li>
+<li><p>Enables detection of unintended or unrealistic behaviours  </p></li>
+<li><p>Relates factors directly to agent decision logic and environment conditions  </p></li>
+</ul>
+
+<hr />
+
+<h2><strong>How Actionability is Achieved / Operationalized</strong></h2>
+
+<ul>
+<li><p><strong>Framework/Approach Name(s):</strong> Aggregated Explanation Mechanism  </p></li>
+<li><p><strong>Methods/Levers:</strong> Logging explanatory factors in agent code; aggregating factors across relevant agents; frequency analysis to identify key drivers  </p></li>
+<li><p><strong>Operational Steps / Workflow:</strong>  </p>
+
+<p> 1. Pose a query about aggregate behaviour  </p>
+
+<p> 2. Identify relevant agents  </p>
+
+<p> 3. Generate individual explanations using BDI-based mechanism  </p>
+
+<p> 4. Aggregate factors and count frequencies  </p>
+
+<p> 5. Filter and interpret most common factors  </p>
+
+<p> 6. Optionally run counterfactual simulations to test hypotheses  </p></li>
+<li><p><strong>Data &amp; Measures:</strong> Counts of explanatory factor occurrences per agent for a given query  </p></li>
+<li><p><strong>Implementation Context:</strong> Applied to a simplified traffic simulation with road network, bridges, and route-choice agents  </p></li>
+</ul>
+
+<blockquote>
+  <p>“A straightforward way to aggregate explanations is to count the occurrences of all explanatory factors that are related to a query, and list the most common ones.” (p. 138)  </p>
+</blockquote>
+
+<blockquote>
+  <p>“...we might modify c (or the parameters) and re-run the simulation to check...” (p. 138)  </p>
+</blockquote>
+
+<hr />
+
+<h2>Dimensions and Attributes of Actionability (Authors’ Perspective)</h2>
+
+<ul>
+<li><p><strong>CL (Clarity):</strong> Yes — Explanations are explicitly linked to decision logic, making cause understandable.  </p>
+
+<p> &gt; “...preferred the road from 1 to 2 over the road from 1 to 3 because there was traffic...” (p. 137)  </p></li>
+<li><p><strong>CR (Contextual Relevance):</strong> Yes — Explanations are scenario- and query-specific.  </p></li>
+<li><p><strong>FE (Feasibility):</strong> Partial — Hypotheses can be tested via simulation reruns.  </p></li>
+<li><p><strong>TI (Timeliness):</strong> Partial — Insights are generated in sync with simulation analysis.  </p></li>
+<li><p><strong>EX (Explainability):</strong> Yes — Mechanism based on BDI folk psychology concepts.  </p></li>
+<li><p><strong>GA (Goal Alignment):</strong> Partial — Explanations align with agents’ stated goals (e.g., reach destination).  </p></li>
+<li><p><strong>Other Dimensions Named by Authors:</strong> Testability, specificity, frequency-based relevance.  </p></li>
+</ul>
+
+<hr />
+
+<h2>Theoretical or Conceptual Foundations</h2>
+
+<ul>
+<li><p>BDI model of cognitive agents  </p></li>
+<li><p>Folk psychology explanation concepts (Malle, 2004)  </p></li>
+<li><p>Explanation frameworks in AI (Winikoff et al., 2018)  </p></li>
+</ul>
+
+<hr />
+
+<h2>Indicators or Metrics for Actionability</h2>
+
+<ul>
+<li><p>Frequency of explanatory factors across relevant agents  </p></li>
+<li><p>Presence of causal, scenario-specific factors in top-ranked list  </p></li>
+<li><p>Change in observed behaviour after modifying implicated conditions  </p></li>
+</ul>
+
+<hr />
+
+<h2>Barriers and Enablers to Actionability</h2>
+
+<ul>
+<li><p><strong>Barriers:</strong> Noise from less relevant factors; difficulty in filtering relevant factors; unrealistic agent logic producing misleading explanations.  </p></li>
+<li><p><strong>Enablers:</strong> Structured logging of decision rationale; aggregation process; human-in-the-loop query refinement and counterfactual testing.  </p></li>
+</ul>
+
+<hr />
+
+<h2>Relation to Existing Literature</h2>
+
+<p>Builds on work explaining single-agent behaviour (e.g., Winikoff et al., 2018) and extends to independent multi-agent aggregates—addressing a gap where prior work lacked mechanisms for aggregating explanations.  </p>
+
+<hr />
+
+<h2>Summary</h2>
+
+<p>The authors propose a method to explain aggregate behaviour in cognitive agent-based simulations by aggregating individual agent explanations derived from BDI-based decision models. Actionability here means the ability to produce scenario-specific, testable insights into collective behaviour that aid simulation refinement and debugging. The method operationalizes actionability through a structured process: pose a query, collect and aggregate explanations, identify common causal factors, and, if needed, test them via simulation modifications. The traffic simulation case study illustrates how this approach can reveal whether route choices result from congestion, infrastructure status, or flawed logic, leading to targeted fixes. Key actionable features include clarity, contextual relevance, testability, and goal alignment. The framework provides both a conceptual contribution and a practical demonstration, scoring high in relevance and operationalization due to its explicit link between explanation mechanisms and actionable insight generation.</p>
+
+<hr />
+
+<h2>Scores</h2>
+
+<ul>
+<li><p><strong>Overall Relevance Score:</strong> 87 — Strong implicit definition of actionability tied to explanation usefulness, clear dimensions, and systematic process.  </p></li>
+<li><p><strong>Operationalization Score:</strong> 85 — Detailed step-by-step process with implemented case study; robust enough for replication in similar simulation contexts.  </p></li>
+</ul>
+
+<hr />
+
+<h2>Supporting Quotes from the Paper</h2>
+
+<ul>
+<li><p>“...obtain useful (and actionable) insight into the behaviour of agent-based simulation...” (p. 129)  </p></li>
+<li><p>“A straightforward way to aggregate explanations is to count the occurrences of all explanatory factors...” (p. 138)  </p></li>
+<li><p>“...preferred the road from 1 to 2 over the road from 1 to 3 because there was traffic...” (p. 137)  </p></li>
+<li><p>“This hypothesis was therefore tested by re-running the simulation...” (p. 140)  </p></li>
+</ul>
+
+<hr />
+
+<h2>Actionability References to Other Papers</h2>
+
+<ul>
+<li><p>Malle, B.F. (2004) — Folk psychology framework for explanation  </p></li>
+<li><p>Winikoff et al. (2018) — Single-agent explanation mechanism  </p></li>
+<li><p>Harbers et al. (2010) — Early proposal for explaining collective behaviour</p></li>
+</ul>

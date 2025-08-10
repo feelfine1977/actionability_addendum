@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "738f804f899d5b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "694e5380aadf6581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a21b393e85f5edf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ced32372548c2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee7f010ef25c32f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "593e4decab7472f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e18277d06d354cc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b90ea230538c6e2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f553858d3753ba4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e363637e044516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9209343bd2dc9032",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ba6daa6098fafaa1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9dcb57e158cd2046",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b294657d83e1a44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a21b393e85f5edf",
+  "lastOpenFiles": [
+    "Concept/CL - Clarity (Actionability).md",
+    "Domain/Artificial Intelligence Human-Centered Computing.md",
+    "Domain/Artificial Intelligence Multi-Agent Systems.md",
+    "Domain/Bioinformatics Genomic Medicine.md",
+    "A framework for analyzing the relationships between cancer patient satisfaction.md",
+    "Concept/GA - Goal Alignment (Actionability).md",
+    "Concept/FE - Feasibility (Actionability).md",
+    "Concept/EX - Explainability (Actionability).md"
+  ]
+}

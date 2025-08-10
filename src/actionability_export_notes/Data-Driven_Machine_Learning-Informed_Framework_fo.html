@@ -1,0 +1,280 @@
+<h1>Paper Summary</h1>
+
+<!--META_START-->
+
+<p>Title: Data-Driven Machine Learning-Informed Framework for Model Predictive Control in Vehicles  </p>
+
+<p>Authors: Edgar Amalyan, Shahram Latifi  </p>
+
+<p>DOI: https://doi.org/10.3390/info16060511  </p>
+
+<p>Year: 2025  </p>
+
+<p>Publication Type: Journal  </p>
+
+<p>Discipline/Domain: Electrical and Computer Engineering / Automotive Control Systems  </p>
+
+<p>Subdomain/Topic: Hybrid Machine Learning–Model Predictive Control (ML–MPC) for vehicle subsystems  </p>
+
+<p>Eligibility: Eligible  </p>
+
+<p>Overall Relevance Score: 90  </p>
+
+<p>Operationalization Score: 88  </p>
+
+<p>Contains Definition of Actionability: Yes (explicitly in terms of “transforming ML outputs into actionable commands” for MPC)  </p>
+
+<p>Contains Systematic Features/Dimensions: Yes  </p>
+
+<p>Contains Explainability: Yes (MPC’s transparency offsets ML’s black-box nature)  </p>
+
+<p>Contains Interpretability: Yes (hybrid design enables interpreting ML outputs through MPC)  </p>
+
+<p>Contains Framework/Model: Yes (machine learning–informed MPC hybrid framework)  </p>
+
+<p>Operationalization Present: Yes (detailed multi-step workflow for training, inference, sliding-window smoothing, weighting, and integration with MPC)  </p>
+
+<p>Primary Methodology: Experimental + Conceptual Framework Development  </p>
+
+<p>Study Context: Performance vehicle suspension as primary subsystem case study; extensible to other systems like braking and traction  </p>
+
+<p>Geographic/Institutional Context: University of Nevada, Las Vegas, USA  </p>
+
+<p>Target Users/Stakeholders: Automotive engineers, control system designers, autonomous vehicle developers, performance vehicle tuners  </p>
+
+<p>Primary Contribution Type: Conceptual + Technical Framework with proof-of-concept implementation and evaluation  </p>
+
+<p>CL: Yes — “MPC translates ML outputs into actionable commands” ensuring clear operational meaning (p. 3)  </p>
+
+<p>CR: Yes — Actionability tied to real-time contextual vehicle state awareness (p. 16)  </p>
+
+<p>FE: Yes — Feasibility discussed in terms of real-time latency, computational load, and integration with existing ECUs (p. 13, p. 17)  </p>
+
+<p>TI: Yes — Sliding-window and exponential weighting for timely response (p. 12)  </p>
+
+<p>EX: Yes — MPC provides explainable layer for ML’s black box outputs (p. 3)  </p>
+
+<p>GA: Yes — Goal alignment through mode-specific constraint tuning for performance, safety, comfort (p. 16)  </p>
+
+<p>Reason if Not Eligible: n/a  </p>
+
+<!--META_END-->
+
+<p><strong>Title:</strong>  </p>
+
+<p>Data-Driven Machine Learning-Informed Framework for Model Predictive Control in Vehicles  </p>
+
+<p><strong>Authors:</strong>  </p>
+
+<p>Edgar Amalyan, Shahram Latifi  </p>
+
+<p><strong>DOI:</strong>  </p>
+
+<p>https://doi.org/10.3390/info16060511  </p>
+
+<p><strong>Year:</strong>  </p>
+
+<p>2025  </p>
+
+<p><strong>Publication Type:</strong>  </p>
+
+<p>Journal  </p>
+
+<p><strong>Discipline/Domain:</strong>  </p>
+
+<p>Electrical and Computer Engineering / Automotive Control Systems  </p>
+
+<p><strong>Subdomain/Topic:</strong>  </p>
+
+<p>Hybrid ML–MPC framework for adaptive, self-optimizing vehicle control  </p>
+
+<p><strong>Contextual Background:</strong>  </p>
+
+<p>The paper develops a data-driven ML module to interpret vehicle subsystem states from sensor data, producing real-time semantic mode predictions that inform MPC systems. Suspension control is used as a case study, but applicability extends to braking, traction, and energy systems.  </p>
+
+<p><strong>Geographic/Institutional Context:</strong>  </p>
+
+<p>University of Nevada, Las Vegas, USA  </p>
+
+<p><strong>Target Users/Stakeholders:</strong>  </p>
+
+<p>Vehicle control engineers, autonomous vehicle designers, motorsport engineers, component manufacturers  </p>
+
+<p><strong>Primary Methodology:</strong>  </p>
+
+<p>Experimental sensor-data collection + ML model training + integration concept for MPC  </p>
+
+<p><strong>Primary Contribution Type:</strong>  </p>
+
+<p>Conceptual and technical framework with performance validation  </p>
+
+<hr />
+
+<h2>General Summary of the Paper</h2>
+
+<p>The paper proposes and validates a machine learning–informed framework to enhance Model Predictive Control (MPC) in vehicles. Using a BMW M240i test platform, inertial data from accelerometers and gyroscopes were collected during controlled driving maneuvers. An XGBoost-based prototype classifier was trained on curated “seed” maneuver data, then used to pseudo-label a much larger “exemplar” dataset, enabling a robust inference model. The model classifies vehicle modes (e.g., braking, cornering) in real time with 97.6% accuracy. To ensure stability and responsiveness, predictions are processed using overlapping sliding windows and reverse exponential weighting. The paper details how such semantic mode predictions can feed into MPC systems for adaptive constraint tuning and control strategy updates. Applications span suspension adjustment, braking, traction, and energy management for conventional and autonomous vehicles.</p>
+
+<hr />
+
+<h2>Eligibility</h2>
+
+<p>Eligible for inclusion: <strong>Yes</strong>  </p>
+
+<hr />
+
+<h2>How Actionability is Understood</h2>
+
+<p>The authors explicitly define actionability as the transformation of ML outputs into real-world control actions via MPC, ensuring they are interpretable, safe, and optimally tuned for current vehicle conditions.  </p>
+
+<blockquote>
+  <p>“MPC in the hybrid approach translates ML outputs into actionable commands in the real world.” (p. 3)  </p>
+</blockquote>
+
+<blockquote>
+  <p>“By grading each subsystem’s real-world status and feeding those semantic modes into the optimizer, the approach generalizes effortlessly…” (p. 16)  </p>
+</blockquote>
+
+<hr />
+
+<h2>What Makes Something Actionable</h2>
+
+<ul>
+<li><p>Interpretability through MPC translating ML outputs into constraints and control commands  </p></li>
+<li><p>Contextual relevance to current driving conditions  </p></li>
+<li><p>Real-time responsiveness without destabilizing oscillations  </p></li>
+<li><p>Feasibility for deployment on automotive ECUs  </p></li>
+<li><p>Goal alignment with performance, safety, and comfort objectives  </p></li>
+</ul>
+
+<hr />
+
+<h2>How Actionability is Achieved / Operationalized</h2>
+
+<ul>
+<li><p><strong>Framework/Approach Name(s):</strong> ML-informed MPC hybrid control framework  </p></li>
+<li><p><strong>Methods/Levers:</strong> Sensor fusion (accelerometer, gyroscope), XGBoost classification, pseudo-labeling, real-time inference pipeline  </p></li>
+<li><p><strong>Operational Steps / Workflow:</strong>  </p>
+
+<p> 1. Collect curated “seed” maneuver data  </p>
+
+<p> 2. Train prototype classifier  </p>
+
+<p> 3. Pseudo-label large exemplar dataset  </p>
+
+<p> 4. Train inference model  </p>
+
+<p> 5. Real-time operation using overlapping sliding window + reverse exponential weighting  </p>
+
+<p> 6. Feed mode predictions to MPC for constraint/parameter updates  </p></li>
+<li><p><strong>Data &amp; Measures:</strong> Six inertial features (GForceX/Y/Z, GyroX/Y/Z) with defined sign conventions and physical meaning  </p></li>
+<li><p><strong>Implementation Context:</strong> Performance suspension tuning case study; extensible to brakes, traction, energy  </p></li>
+</ul>
+
+<blockquote>
+  <p>“An overlapping sliding-window grading approach with reverse exponential weighting smooths transient fluctuations while preserving responsiveness.” (p. 1)  </p>
+</blockquote>
+
+<blockquote>
+  <p>“The controller can adjust its own internal constraints…based on the inferred driving mode.” (p. 16)  </p>
+</blockquote>
+
+<hr />
+
+<h2>Dimensions and Attributes of Actionability (Authors’ Perspective)</h2>
+
+<ul>
+<li><p><strong>CL (Clarity):</strong> Yes — ML outputs interpreted via MPC into explicit commands (p. 3)  </p></li>
+<li><p><strong>CR (Contextual Relevance):</strong> Yes — Predictions reflect real-time driving modes for adaptive control (p. 16)  </p></li>
+<li><p><strong>FE (Feasibility):</strong> Yes — Tested with latency measurements; hardware considerations discussed (p. 13, p. 17)  </p></li>
+<li><p><strong>TI (Timeliness):</strong> Yes — Sliding window + weighting ensures rapid yet stable response (p. 12)  </p></li>
+<li><p><strong>EX (Explainability):</strong> Yes — MPC’s rule-based transparency provides explainability (p. 3)  </p></li>
+<li><p><strong>GA (Goal Alignment):</strong> Yes — Constraints tuned for performance, safety, comfort (p. 16)  </p></li>
+<li><p><strong>Other Dimensions Named by Authors:</strong> Stability through constraint management; robustness to sensor anomalies  </p></li>
+</ul>
+
+<hr />
+
+<h2>Theoretical or Conceptual Foundations</h2>
+
+<ul>
+<li><p>Model Predictive Control theory (receding horizon optimization, constraints)  </p></li>
+<li><p>Semi-supervised ML (pseudo-labeling)  </p></li>
+<li><p>Feature importance metrics from gradient-boosted decision trees  </p></li>
+</ul>
+
+<hr />
+
+<h2>Indicators or Metrics for Actionability</h2>
+
+<ul>
+<li><p>Real-time classification accuracy (97.6%)  </p></li>
+<li><p>Latency (~119 µs inference + 32 µs aggregation)  </p></li>
+<li><p>F1-scores per maneuver class  </p></li>
+<li><p>Confusion matrix diagonality (low cross-mode error)  </p></li>
+</ul>
+
+<hr />
+
+<h2>Barriers and Enablers to Actionability</h2>
+
+<ul>
+<li><p><strong>Barriers:</strong>  </p>
+
+<p> - Mislabeling under-represented scenarios  </p>
+
+<p> - Trade-off between window size and responsiveness  </p>
+
+<p> - Computational load on ECUs  </p>
+
+<p> - Limited coverage of rare driving conditions in datasets  </p></li>
+<li><p><strong>Enablers:</strong>  </p>
+
+<p> - MPC’s safeguard role against erroneous ML outputs  </p>
+
+<p> - Modular adaptability across vehicle subsystems  </p>
+
+<p> - High accuracy and generalization via pseudo-labeling  </p></li>
+</ul>
+
+<hr />
+
+<h2>Relation to Existing Literature</h2>
+
+<p>Positions itself as a practical, data-driven integration of ML and MPC, leveraging MPC’s transparency to offset ML’s opaqueness while using ML’s predictive adaptability to overcome MPC’s reliance on static models. Builds on prior work in ML for automotive perception and MPC for control, adding a structured hybridization pipeline.</p>
+
+<hr />
+
+<h2>Summary</h2>
+
+<p>This paper offers a complete methodology for making ML outputs actionable in automotive control through MPC integration. Actionability is explicitly framed as the transformation of predictive insights into interpretable, constraint-adjusted commands. The proposed pipeline—seed data collection, prototype classification, pseudo-labeling, inference model training, sliding-window smoothing, and reverse exponential weighting—ensures timely, context-relevant, and safe control adjustments. The authors test the system on suspension control in a performance vehicle, achieving high accuracy and low latency, and argue that the approach generalizes to other vehicle subsystems. The framework’s strength lies in its balance between predictive adaptability and rule-based transparency, enabling both human interpretability and machine responsiveness.</p>
+
+<hr />
+
+<h2>Scores</h2>
+
+<ul>
+<li><p><strong>Overall Relevance Score:</strong> 90 — Strong explicit conceptualization of actionability, well-linked features, clear hybrid framework.  </p></li>
+<li><p><strong>Operationalization Score:</strong> 88 — Detailed, multi-step technical pipeline with performance metrics; lacks only direct integration and field trials with MPC to be complete.  </p></li>
+</ul>
+
+<hr />
+
+<h2>Supporting Quotes from the Paper</h2>
+
+<ul>
+<li><p>“MPC…translates ML outputs into actionable commands in the real world.” (p. 3)  </p></li>
+<li><p>“By grading each subsystem’s real-world status and feeding those semantic modes into the optimizer, the approach generalizes effortlessly…” (p. 16)  </p></li>
+<li><p>“An overlapping sliding-window grading approach with reverse exponential weighting smooths transient fluctuations while preserving responsiveness.” (p. 1)  </p></li>
+<li><p>“The controller can adjust its own internal constraints…based on the inferred driving mode.” (p. 16)  </p></li>
+</ul>
+
+<hr />
+
+<h2>Actionability References to Other Papers</h2>
+
+<ul>
+<li><p>Norouzi et al. (2023) — ML–MPC integration review  </p></li>
+<li><p>Maiworm et al. (2021) — Online learning-based MPC with stability guarantees  </p></li>
+<li><p>Goel et al. (2023) — Semantically informed MPC for context-aware control  </p></li>
+<li><p>Ribeiro et al. (2016) — Explaining predictions of classifiers</p></li>
+</ul>

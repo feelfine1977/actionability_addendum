@@ -1,0 +1,2880 @@
+@misc{_ActionableIntelligence_,
+  title = {Actionable {{Intelligence}}},
+  doi = {10.1177/0145482X1010401110},
+  urldate = {2025-07-24},
+  howpublished = {https://journals.sagepub.com/doi/epdf/10.1177/0145482X1010401110},
+  langid = {english},
+  keywords = {Actionability,Paper_Actionability,Top Analysis Actionability}
+}
+
+@misc{_ActionableKnowledgeDiscovery_,
+  title = {Actionable Knowledge Discovery and Delivery {\textbar} {{Wiley Interdisciplinary Reviews}}: {{Data Mining}} and {{Knowledge Discovery}}},
+  urldate = {2025-08-09},
+  howpublished = {https://dl.acm.org/doi/10.1002/widm.1044},
+  keywords = {Business_Analysis,Paper_Actionability}
+}
+
+@misc{_ARGYRISSeekingTruth_,
+  title = {{{ARGYRIS}} {\textbar} {{Seeking Truth}} and {{Actionable Knowledge}}: {{How}} the {{Scientific Method Inhibits Both}} {\textbar} {{Philosophica}}},
+  urldate = {2025-06-08},
+  howpublished = {https://www.philosophica.ugent.be/article/id/82481/},
+  keywords = {Actionability,Knowledge,notion,Paper_Actionability}
+}
+
+@misc{_AssessmentUrbanEcoefficiency_,
+  title = {The Assessment of Urban Eco-Efficiency of {{Brazilian}} Municipalities Based on Directional Distance Functions {\textbar} {{Journal}} of {{Modelling}} in {{Management}} {\textbar} {{Emerald Publishing}}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.emerald.com/jm2/article/doi/10.1108/JM2-11-2024-0369/1253544/The-assessment-of-urban-eco-efficiency-of},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{_AWARENESSINACTIONCriticalIntegralism_,
+  title = {{AWARENESS-IN-ACTION: A Critical Integralism for the Challenges of Our Times - ProQuest}},
+  shorttitle = {{AWARENESS-IN-ACTION}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.proquest.com/openview/d2609ae35635de21aa37e4534d5c9704/1?pq-origsite=gscholar\&cbl=886371},
+  langid = {ngerman},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{_BigDataAnalytics_,
+  title = {Big Data Analytics: Transforming Data to Action {\textbar} {{Business Process Management Journal}} {\textbar} {{Emerald Publishing}}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.emerald.com/bpmj/article/23/3/703/256982/Big-data-analytics-transforming-data-to-action},
+  keywords = {Business_Analysis,Paper_Actionability}
+}
+
+@misc{_DataDrivenMachineLearningInformed_,
+  title = {Data-{{Driven Machine Learning-Informed Framework}} for {{Model Predictive Control}} in {{Vehicles}}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.mdpi.com/2078-2489/16/6/511},
+  keywords = {Paper_Actionability,XAI}
+}
+
+@misc{_FacilitationEntrepreneurialDiscovery_,
+  title = {Facilitation of {{Entrepreneurial Discovery Processes}} by {{Policymakers}}: An {{Actionable Definition}} of {{Roles}} and {{Challenges}} {\textbar} {{Journal}} of the {{Knowledge Economy}}},
+  urldate = {2025-08-09},
+  howpublished = {https://link-springer-com.dianus.libr.tue.nl/article/10.1007/s13132-022-00906-1},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{_FullArticleBig_,
+  title = {Full Article: {{Big}} Data and Technology Assessment: Research Topic or Competitor?},
+  urldate = {2025-08-09},
+  howpublished = {https://www.tandfonline.com/doi/full/10.1080/23299460.2017.1360718},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{_HeuristicUsesFour_,
+  title = {The {{Heuristic Uses}} of {{Four}} '{{Knows}}' for {{Managing Knowledge}} in {{Education}} - {{ProQuest}}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.proquest.com/docview/1860279398?pq-origsite=gscholar\&fromopenview=true\&sourcetype=Conference\%20Papers\%20\&\%20Proceedings},
+  keywords = {Education,Paper_Actionability}
+}
+
+@misc{_IndividualGrouplevelConsiderations_,
+  title = {Individual and {{Group-level}} Considerations of {{Actionable Recourse}} {\textbar} {{Proceedings}} of the 2023 {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}}, and {{Society}}},
+  urldate = {2025-08-09},
+  howpublished = {https://dl.acm.org/doi/abs/10.1145/3600211.3604758},
+  keywords = {Paper_Actionability,XAI}
+}
+
+@misc{_KnowledgePolicyResearch_,
+  title = {Knowledge and {{Policy}}: {{Research}} --- {{Information}} --- {{Intervention}}},
+  shorttitle = {Knowledge and {{Policy}}},
+  doi = {10.2304/eerj.2007.6.3.283},
+  urldate = {2025-07-24},
+  howpublished = {https://journals.sagepub.com/doi/epdf/10.2304/eerj.2007.6.3.283?src=getftr\&utm\_source=scopus\&getft\_integrator=scopus},
+  langid = {english},
+  keywords = {Actionability,Paper_Actionability,Science}
+}
+
+@misc{_NextgenerationSequencingShould_,
+  title = {Next-Generation Sequencing, Should {{I}} Use Anti-{{HER2}} Therapy for {{HER2-amplified}} Tumors off-Label? {{Illustrating}} an Extrapolation Framework - {{Doah Cho}}, {{Sarah J}}. {{Lord}}, {{John Simes}}, {{Wendy Cooper}}, {{Michael Friedlander}}, {{Susie Bae}}, {{Chee Khoon Lee}}, 2022},
+  urldate = {2025-08-09},
+  howpublished = {https://journals.sagepub.com/doi/full/10.1177/17588359221112822},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@misc{_OpportunityMapProceedings_,
+  title = {Opportunity Map {\textbar} {{Proceedings}} of the 14th {{ACM}} International Conference on {{Information}} and Knowledge Management},
+  urldate = {2025-08-09},
+  howpublished = {https://dl.acm.org/doi/abs/10.1145/1099554.1099568},
+  keywords = {Paper_Actionability,Visual_Analytics}
+}
+
+@misc{_PDFDeliveringActionable_,
+  title = {({{PDF}}) {{Delivering}} Actionable Information},
+  urldate = {2025-07-24},
+  howpublished = {https://www.researchgate.net/publication/220578339\_Delivering\_actionable\_information},
+  keywords = {Actionability,Paper_Actionability,Top Analysis Actionability}
+}
+
+@misc{_ProspectiveLongitudinalCtDNA_,
+  title = {Prospective {{Longitudinal ctDNA Workflow Reveals Clinically Actionable Alterations}} in {{Ovarian Cancer}} {\textbar} {{JCO Precision Oncology}}},
+  urldate = {2025-08-09},
+  howpublished = {https://ascopubs.org/doi/full/10.1200/PO.18.00343},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@misc{_SemiquantitativeMetricEvaluating_,
+  title = {A Semiquantitative Metric for Evaluating Clinical Actionability of Incidental or Secondary Findings from Genome-Scale Sequencing {\textbar} {{Genetics}} in {{Medicine}}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.nature.com/articles/gim2015104},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@misc{_SharingScienceShared_,
+  title = {Sharing Science through Shared Values, Goals, and Stories: An Evidence-Based Approach to Making Science Matter an Evidence-Based Approach to Making Science Matter on {{JSTOR}}},
+  eprint = {27316303},
+  eprinttype = {jstor},
+  urldate = {2025-08-09},
+  howpublished = {https://www.jstor.org/stable/27316303?seq=1},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{_SmartComputingBased_,
+  title = {Smart Computing Based Student Performance Evaluation Framework for Engineering Education - {{Verma}} - 2017 - {{Computer Applications}} in {{Engineering Education}} - {{Wiley Online Library}}},
+  urldate = {2025-08-09},
+  howpublished = {https://onlinelibrary.wiley.com/doi/full/10.1002/cae.21849},
+  keywords = {Education,Paper_Actionability}
+}
+
+@misc{_TemporalDependencyOntologyBased_,
+  title = {Beyond {{Temporal Dependency}}: {{An Ontology-Based Approach}} to~{{Modeling Causal Structures}} in~{{Business Processes}} {\textbar} {{SpringerLink}}},
+  urldate = {2025-06-08},
+  howpublished = {https://link.springer.com/chapter/10.1007/978-3-031-34241-7\_11},
+  keywords = {A_Insights_Generation,Causality,notion,PA_Motivation,Paper_Actionability,Process Mining},
+  annotation = {Causal Dependencies}
+}
+
+@misc{_ThiemeEJournalsApplied_,
+  title = {Thieme {{E-Journals}} - {{Applied Clinical Informatics}} / {{Volltext}}},
+  urldate = {2025-08-09},
+  howpublished = {https://www.thieme-connect.com/products/ejournals/html/10.4338/ACI-2014-02-RA-0012},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@misc{_UserGuidedActionable_,
+  title = {Towards {{User Guided Actionable Recourse}} {\textbar} {{Proceedings}} of the 2023 {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}}, and {{Society}}},
+  urldate = {2025-08-09},
+  howpublished = {https://dl.acm.org/doi/abs/10.1145/3600211.3604708},
+  keywords = {Paper_Actionability,XAI}
+}
+
+@misc{_UserPerceptionsActionability_,
+  title = {User {{Perceptions}} of {{Actionability}} in {{Data Dashboards}}},
+  doi = {10.1177/10506519231161611},
+  urldate = {2025-08-09},
+  howpublished = {https://journals.sagepub.com/doi/epub/10.1177/10506519231161611},
+  langid = {english},
+  keywords = {Business_Analysis,Paper_Actionability}
+}
+
+@misc{_WhenRigorMeets_,
+  title = {When {{Rigor Meets Relevance}}: The {{Development}} of {{Hybrid Actionable Knowledge Production Systems}} {\textbar} {{Systemic Practice}} and {{Action Research}}},
+  urldate = {2025-08-09},
+  howpublished = {https://link-springer-com.dianus.libr.tue.nl/article/10.1007/s11213-022-09596-x},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{abb_IdentifyingProcessImprovement_2025,
+  title = {Identifying {{Process Improvement Opportunities}} through {{Process Execution Benchmarking}}},
+  author = {Abb, Luka and Rafiei, Majid and Kampik, Timotheus and Rehse, Jana-Rebecca},
+  year = {2025},
+  month = apr,
+  number = {arXiv:2504.16215},
+  eprint = {2504.16215},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2504.16215},
+  urldate = {2025-06-09},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Software Engineering,notion,PA_Feasibility,Paper_Actionability,Process improvement,Process Mining},
+  annotation = {Interesting especially that authors do not only check for behavioural changes but also for feasibility}
+}
+
+@inproceedings{aburub_AIDrivenWholeExomeSequencing_2025,
+  title = {{{AI-Driven Whole-Exome Sequencing}}: {{Advancing Variant Interpretation}} and {{Precision Medicine}}},
+  shorttitle = {{{AI-Driven Whole-Exome Sequencing}}},
+  booktitle = {2025 1st {{International Conference}} on {{Computational Intelligence Approaches}} and {{Applications}} ({{ICCIAA}})},
+  author = {Aburub, Faisal and {Al-Remawi}, Mayyas and {Abdel-Rahem}, Rami A. and {Al-Akayleh}, Faisal and Agha, Ahmed S.A. Ali},
+  year = {2025},
+  month = apr,
+  pages = {1--5},
+  doi = {10.1109/ICCIAA65327.2025.11013653},
+  urldate = {2025-08-09},
+  keywords = {Accuracy,Annotations,Artificial intelligence,Artificial Intelligence,Deep learning,Deep Learning,Diseases,Ethics,Genetic Diagnostics,Machine Learning,Paper_Actionability,Precision medicine,Precision Medicine,Proteins,Sequential analysis,Translation,Whole-Exome Sequencing,XAI}
+}
+
+@article{adams_AddressingContemporaryChallenges_2025,
+  title = {Addressing the {{Contemporary Challenges}} of {{Business Process Compliance}}: {{The Case}} for {{Process Mining}} in the {{Banking Industry}}},
+  shorttitle = {Addressing the {{Contemporary Challenges}} of {{Business Process Compliance}}},
+  author = {Adams, Nigel and Augusto, Adriano and Davern, Michael and Rosa, Marcello La},
+  year = {2025},
+  month = feb,
+  journal = {Business \& Information Systems Engineering},
+  issn = {2363-7005, 1867-0202},
+  doi = {10.1007/s12599-025-00929-3},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {A_Insights_Generation,Compliance Check,notion,Paper_Actionability,Process Mining}
+}
+
+@article{ademExplainableMachineLearning2025,
+  title = {Explainable Machine Learning Algorithms to Identify Predictors of Intention to Use Family Planning among Women of Reproductive-Age in {{Ethiopia}}: {{Evidence}} from the {{Performance Monitoring}} and {{Accountability}} ({{PMA}}) 2021 Survey Data Set},
+  shorttitle = {Explainable Machine Learning Algorithms to Identify Predictors of Intention to Use Family Planning among Women of Reproductive-Age in {{Ethiopia}}},
+  author = {Adem, Jibril Bashir and Nebi, Tewodros Desalegn and Walle, Agmasie Damtew and Mamo, Daniel Niguse and Wado, Sudi Jemal and Enyew, Ermias Bekele and Kebede, Shimels Derso},
+  year = {2025},
+  month = jan,
+  journal = {BMJ Public Health},
+  volume = {3},
+  number = {1},
+  pages = {e000962},
+  issn = {2753-4294},
+  doi = {10.1136/bmjph-2024-000962},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Explainability,Healthcare,Machine Learning,notion,Paper_Actionability,SHAP}
+}
+
+@incollection{adler_SearchAlternativeFramework_2001,
+  title = {In Search of an Alternative Framework for the Creation of Actionable Knowledge: {{Table-tennis}} Research at {{Ericsson}}},
+  shorttitle = {In Search of an Alternative Framework for the Creation of Actionable Knowledge},
+  booktitle = {Research in {{Organizational Change}} and {{Development}}},
+  author = {Adler, Niclas and Shani, Rami},
+  year = {2001},
+  month = nov,
+  volume = {13},
+  pages = {0},
+  publisher = {Emerald Group Publishing Limited},
+  doi = {10.1016/S0897-3016(01)13002-8},
+  urldate = {2025-08-09},
+  isbn = {978-0-7623-0827-9},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{afsharimofrad_PolicyHelixAntecedents_2023,
+  title = {Policy {{Helix}} and {{Antecedents}} of {{Cybersecurity Policymaking Agility}}},
+  author = {Afshari Mofrad, Masoud and Abedin, Babak and Amrollahi, Alireza},
+  year = {2023},
+  month = dec,
+  journal = {ACIS 2023 Proceedings},
+  keywords = {Other,Paper_Actionability}
+}
+
+@inproceedings{ahlbrecht_ExplainingAggregateBehaviour_2019,
+  title = {Explaining {{Aggregate Behaviour}} in {{Cognitive Agent Simulations Using Explanation}}},
+  booktitle = {Explainable, {{Transparent Autonomous Agents}} and {{Multi-Agent Systems}}},
+  author = {Ahlbrecht, Tobias and Winikoff, Michael},
+  year = {2019},
+  pages = {129--146},
+  publisher = {Springer, Cham},
+  issn = {1611-3349},
+  doi = {10.1007/978-3-030-30391-4_8},
+  urldate = {2025-08-09},
+  isbn = {978-3-030-30391-4},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{argyris_ActionableKnowledge_,
+  title = {Actionable {{Knowledge}}},
+  author = {Argyris, Chris},
+  urldate = {2025-07-24},
+  langid = {english},
+  keywords = {Paper_Actionability}
+}
+
+@inproceedings{aryal_EvenIfExplanations_2023,
+  title = {Even {{If Explanations}}: {{Prior Work}}, {{Desiderata}} \& {{Benchmarks}} for {{Semi-Factual XAI}}},
+  shorttitle = {Even {{If Explanations}}},
+  booktitle = {Proceedings of the {{Thirty-Second International Joint Conference}} on {{Artificial Intelligence}}},
+  author = {Aryal, Saugat and Keane, Mark T.},
+  year = {2023},
+  month = aug,
+  pages = {6526--6535},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  address = {Macau, SAR China},
+  doi = {10.24963/ijcai.2023/732},
+  urldate = {2025-06-09},
+  isbn = {978-1-956792-03-4},
+  langid = {english},
+  keywords = {Explainability,notion,Paper_Actionability,XAI}
+}
+
+@inproceedings{attolou_WhyNotExplainableGraph_2024,
+  title = {Why-{{Not Explainable Graph Recommender}}},
+  booktitle = {2024 {{IEEE}} 40th {{International Conference}} on {{Data Engineering}} ({{ICDE}})},
+  author = {Attolou, Herv{\'e}-Madelein and Tzompanaki, Katerina and Stefanidis, Kostas and Kotzinos, Dimitris},
+  year = {2024},
+  month = may,
+  pages = {2245--2257},
+  issn = {2375-026X},
+  doi = {10.1109/ICDE60146.2024.00178},
+  urldate = {2025-08-09},
+  keywords = {Data engineering,Explainable AI,Explanations,Measurement,Paper_Actionability,Privacy,Proposals,Recommender systems,Recommenders,User experience,Why-Not Questions,XAI}
+}
+
+@book{badakhshan_ActionEngineTurning_2019,
+  title = {The {{Action Engine}} - {{Turning Process Insights}} into {{Action}}},
+  author = {Badakhshan, Peyman and Bernhart, German and {Geyer-Klingeberg}, Jerome and Nakladal, Janina and Schenk, Steffen and Vogelgesang, Thomas},
+  year = {2019},
+  month = jun,
+  keywords = {Celonis,notion,PA_Framework,PA_Motivation,Paper_Actionability}
+}
+
+@inproceedings{bano_EnhancingDiscoveredProcess_2021,
+  title = {Enhancing {{Discovered Process Models}} with {{Data Object Lifecycles}}},
+  booktitle = {2021 {{IEEE}} 25th {{International Enterprise Distributed Object Computing Conference}} ({{EDOC}})},
+  author = {Bano, Dorina and Zerbato, Francesca and Weber, Barbara and Weske, Mathias},
+  year = {2021},
+  month = oct,
+  pages = {124--133},
+  publisher = {IEEE},
+  address = {Gold Coast, Australia},
+  doi = {10.1109/EDOC52215.2021.00023},
+  urldate = {2025-06-09},
+  copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
+  isbn = {978-1-6654-3579-6},
+  langid = {english},
+  keywords = {A_Insights_Generation,notion,Paper_Actionability,Process Mining}
+}
+
+@book{bares_RelationalCalculusActionable_2022,
+  title = {Relational {{Calculus}} for {{Actionable Knowledge}}},
+  author = {Bar{\`e}s, Michel and Boss{\'e}, {\'E}loi},
+  year = {2022},
+  series = {Information {{Fusion}} and {{Data Science}}},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-030-92430-0},
+  urldate = {2025-06-08},
+  copyright = {https://www.springer.com/tdm},
+  isbn = {978-3-030-92429-4 978-3-030-92430-0},
+  langid = {english},
+  keywords = {Actionability,Handbook,Knowledge,notion,Paper_Actionability}
+}
+
+@article{barredoarrieta_ExplainableArtificialIntelligence_2020,
+  title = {Explainable {{Artificial Intelligence}} ({{XAI}}): {{Concepts}}, Taxonomies, Opportunities and Challenges toward Responsible {{AI}}},
+  shorttitle = {Explainable {{Artificial Intelligence}} ({{XAI}})},
+  author = {Barredo Arrieta, Alejandro and {D{\'i}az-Rodr{\'i}guez}, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and Garcia, Salvador and {Gil-Lopez}, Sergio and Molina, Daniel and Benjamins, Richard and Chatila, Raja and Herrera, Francisco},
+  year = {2020},
+  month = jun,
+  journal = {Information Fusion},
+  volume = {58},
+  pages = {82--115},
+  issn = {15662535},
+  doi = {10.1016/j.inffus.2019.12.012},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Explainability,notion,Paper_Actionability,XAI}
+}
+
+@article{beckmann_ReconcilingEvidencebasedMedicine_2016,
+  title = {Reconciling Evidence-Based Medicine and Precision Medicine in the Era of Big Data: Challenges and Opportunities},
+  shorttitle = {Reconciling Evidence-Based Medicine and Precision Medicine in the Era of Big Data},
+  author = {Beckmann, Jacques S. and Lew, Daniel},
+  year = {2016},
+  month = dec,
+  journal = {Genome Medicine},
+  volume = {8},
+  number = {1},
+  pages = {1--11},
+  publisher = {BioMed Central},
+  issn = {1756-994X},
+  doi = {10.1186/s13073-016-0388-7},
+  urldate = {2025-08-09},
+  copyright = {2016 The Author(s).},
+  langid = {english},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@article{beerepoot_BiggestBusinessProcess_2023,
+  title = {The Biggest Business Process Management Problems to Solve before We Die},
+  author = {Beerepoot, Iris and Di Ciccio, Claudio and Reijers, Hajo A. and {Rinderle-Ma}, Stefanie and Bandara, Wasana and Burattin, Andrea and Calvanese, Diego and Chen, Tianwa and Cohen, Izack and Depaire, Beno{\^i}t and Di Federico, Gemma and Dumas, Marlon and Van Dun, Christopher and Fehrer, Tobias and Fischer, Dominik A. and Gal, Avigdor and Indulska, Marta and Isahagian, Vatche and Klinkm{\"u}ller, Christopher and Kratsch, Wolfgang and Leopold, Henrik and Van Looy, Amy and Lopez, Hugo and Lukumbuzya, Sanja and Mendling, Jan and Meyers, Lara and Moder, Linda and Montali, Marco and Muthusamy, Vinod and Reichert, Manfred and Rizk, Yara and Rosemann, Michael and R{\"o}glinger, Maximilian and Sadiq, Shazia and Seiger, Ronny and Slaats, Tijs and Simkus, Mantas and Someh, Ida Asadi and Weber, Barbara and Weber, Ingo and Weske, Mathias and Zerbato, Francesca},
+  year = {2023},
+  month = apr,
+  journal = {Computers in Industry},
+  volume = {146},
+  pages = {103837},
+  issn = {01663615},
+  doi = {10.1016/j.compind.2022.103837},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Challenges,notion,Paper_Actionability,Process Mining}
+}
+
+@article{bezerra_AlgorithmsAnomalyDetection_2013,
+  title = {Algorithms for Anomaly Detection of Traces in Logs of Process Aware Information Systems},
+  author = {Bezerra, F{\'a}bio and Wainer, Jacques},
+  year = {2013},
+  month = mar,
+  journal = {Information Systems},
+  volume = {38},
+  number = {1},
+  pages = {33--44},
+  issn = {0306-4379},
+  doi = {10.1016/j.is.2012.04.004},
+  urldate = {2025-06-08},
+  keywords = {A_Insights_Generation,Anomaly detection,notion,Paper_Actionability,Process Mining,Process-aware systems}
+}
+
+@inproceedings{bhattacharya_ExplanatoryModelSteering_2024,
+  title = {An {{Explanatory Model Steering System}} for {{Collaboration}} between {{Domain Experts}} and {{AI}}},
+  booktitle = {Adjunct {{Proceedings}} of the 32nd {{ACM Conference}} on {{User Modeling}}, {{Adaptation}} and {{Personalization}}},
+  author = {Bhattacharya, Aditya and Stumpf, Simone and Verbert, Katrien},
+  year = {2024},
+  month = jun,
+  eprint = {2405.13038},
+  primaryclass = {cs},
+  pages = {75--79},
+  doi = {10.1145/3631700.3664886},
+  urldate = {2025-06-09},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Human-Computer Interaction,Explainability,notion,Paper_Actionability}
+}
+
+@article{boland_CommunicationActionableInformation_2014,
+  title = {Communication of {{Actionable Information}}},
+  author = {Boland, Giles W. and Duszak, Richard and Larson, Paul A.},
+  year = {2014},
+  month = nov,
+  journal = {Journal of the American College of Radiology},
+  volume = {11},
+  number = {11},
+  pages = {1019--1021},
+  issn = {1546-1440},
+  doi = {10.1016/j.jacr.2014.08.003},
+  urldate = {2025-07-24},
+  keywords = {Actionability,Healthcare,Paper_Actionability,Top Analysis Actionability}
+}
+
+@article{bos_DevelopmentActionabilityDutch_2021,
+  title = {Development and {{Actionability}} of the {{Dutch COVID-19 Dashboard}}: {{Descriptive Assessment}} and {{Expert Appraisal Study}} ({{Preprint}})},
+  shorttitle = {Development and {{Actionability}} of the {{Dutch COVID-19 Dashboard}}},
+  author = {Bos, V{\'e}ronique and {Jansen - van Eijndt}, Tessa and Klazinga, Niek and {Kringos - Pereira Martins}, Dionne},
+  year = {2021},
+  month = jun,
+  journal = {JMIR Public Health and Surveillance},
+  volume = {7},
+  doi = {10.2196/31161},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@article{bowling_ReturnNonACMGRecommended_2022,
+  title = {Return of Non-{{ACMG}} Recommended Incidental Genetic Findings to Pediatric Patients: Considerations and Opportunities from Experiences in Genomic Sequencing},
+  shorttitle = {Return of Non-{{ACMG}} Recommended Incidental Genetic Findings to Pediatric Patients},
+  author = {Bowling, Kevin M. and Thompson, Michelle L. and Kelly, Melissa A. and Scollon, Sarah and Slavotinek, Anne M. and Powell, Bradford C. and Kirmse, Brian M. and Hendon, Laura G. and Brothers, Kyle B. and Korf, Bruce R. and Cooper, Gregory M. and Greally, John M. and Hurst, Anna C. E.},
+  year = {2022},
+  month = dec,
+  journal = {Genome Medicine},
+  volume = {14},
+  number = {1},
+  pages = {1--17},
+  publisher = {BioMed Central},
+  issn = {1756-994X},
+  doi = {10.1186/s13073-022-01139-2},
+  urldate = {2025-08-09},
+  copyright = {2022 The Author(s)},
+  langid = {english},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@article{brock_ImprovingProcessMining_2024,
+  title = {Improving {{Process Mining Maturity}} -- {{From Intentions}} to {{Actions}}},
+  author = {Brock, Jonathan and Brennig, Katharina and L{\"o}hr, Bernd and Bartelheimer, Christian and Von Enzberg, Sebastian and Dumitrescu, Roman},
+  year = {2024},
+  month = oct,
+  journal = {Business \& Information Systems Engineering},
+  volume = {66},
+  number = {5},
+  pages = {585--605},
+  issn = {2363-7005, 1867-0202},
+  doi = {10.1007/s12599-024-00882-7},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,notion,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@article{brooksModellingQuantifyingBehaviours2014,
+  title = {Modelling and Quantifying the Behaviours of Students in Lecture Capture Environments},
+  author = {Brooks, Christopher and Erickson, Graham and Greer, Jim and Gutwin, Carl},
+  year = {2014},
+  month = jun,
+  journal = {Computers \& Education},
+  volume = {75},
+  pages = {282--292},
+  issn = {0360-1315},
+  doi = {10.1016/j.compedu.2014.03.002},
+  urldate = {2025-06-08},
+  keywords = {Education,Learning analytics,Lecture capture,Lecture recording,Media in education,notion,Paper_Actionability,Podcasting}
+}
+
+@article{camarda_ActionableMutationsEarlystage_2025,
+  title = {Actionable Mutations in Early-Stage Ovarian Cancer According to the {{ESMO Scale}} for {{Clinical Actionability}} of Molecular {{Targets}} ({{ESCAT}}): A Descriptive Analysis on a Large Prospective Cohort},
+  shorttitle = {Actionable Mutations in Early-Stage Ovarian Cancer According to the {{ESMO Scale}} for {{Clinical Actionability}} of Molecular {{Targets}} ({{ESCAT}})},
+  author = {Camarda, F. and Mastrantoni, L. and Parrillo, C. and Minucci, A. and Persiani, F. and Giannarelli, D. and Pasciuto, T. and Giacomini, F. and De Paolis, E. and Manfredelli, M. and Marchetti, C. and Zannoni, G. F. and Fagotti, A. and Scambia, G. and Nero, C.},
+  year = {2025},
+  month = jan,
+  journal = {ESMO Open},
+  volume = {10},
+  number = {1},
+  pages = {104090},
+  issn = {2059-7029},
+  doi = {10.1016/j.esmoop.2024.104090},
+  urldate = {2025-08-09},
+  keywords = {actionable alterations,early-stage ovarian cancer,ESCAT,Healthcare,Paper_Actionability,target therapy}
+}
+
+@article{cao_ActionableKnowledgeDiscovery_2012,
+  title = {Actionable Knowledge Discovery and Delivery},
+  author = {Cao, Longbing},
+  year = {2012},
+  journal = {WIREs Data Mining and Knowledge Discovery},
+  volume = {2},
+  number = {2},
+  pages = {149--163},
+  issn = {1942-4795},
+  doi = {10.1002/widm.1044},
+  urldate = {2025-07-24},
+  langid = {english},
+  keywords = {Actionability,Paper_Actionability}
+}
+
+@article{cao_DomainDrivenActionableKnowledge_2007,
+  title = {Domain-{{Driven}}, {{Actionable Knowledge Discovery}}},
+  author = {Cao, Longbing and Zhang, Chengqi and Yang, Qiang and Bell, David and Vlachos, Michail and Taneri, Bahar and Keogh, Eamonn and Yu, Philip S. and Zhong, Ning and Ashrafi, Mafruz Zaman and Taniar, David and Dubossarsky, Eugene and Graco, Warwick},
+  year = {2007},
+  month = jul,
+  journal = {IEEE Intelligent Systems},
+  volume = {22},
+  number = {4},
+  pages = {78--88, c3},
+  publisher = {{Institute of Electrical and Electronics Engineers (IEEE)}},
+  issn = {1541-1672},
+  doi = {10.1109/mis.2007.67},
+  urldate = {2025-07-24},
+  copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
+  keywords = {Actionability,Paper_Actionability,Top Analysis Actionability}
+}
+
+@misc{cappuccio_ExplanationUserInterfaces_2025,
+  title = {Explanation {{User Interfaces}}: {{A Systematic Literature Review}}},
+  shorttitle = {Explanation {{User Interfaces}}},
+  author = {Cappuccio, Eleonora and Esposito, Andrea and Greco, Francesco and Desolda, Giuseppe and Lanzilotti, Rosa and Rinzivillo, Salvatore},
+  year = {2025},
+  month = may,
+  number = {arXiv:2505.20085},
+  eprint = {2505.20085},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2505.20085},
+  urldate = {2025-06-09},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Human-Computer Interaction,Explainability,notion,Paper_Actionability}
+}
+
+@book{carmona_ConformanceCheckingRelating_2018,
+  title = {Conformance {{Checking}}: {{Relating Processes}} and {{Models}}},
+  shorttitle = {Conformance {{Checking}}},
+  author = {Carmona, Josep and Van Dongen, Boudewijn and Solti, Andreas and Weidlich, Matthias},
+  year = {2018},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-319-99414-7},
+  urldate = {2025-06-08},
+  copyright = {http://www.springer.com/tdm},
+  isbn = {978-3-319-99413-0 978-3-319-99414-7},
+  langid = {english},
+  keywords = {A_Insights_Generation,Conformance Checking,notion,Paper_Actionability,Process Mining}
+}
+
+@book{catchpoole_DataDrivenScience_2023,
+  title = {Data {{Driven Science}} for {{Clinically Actionable Knowledge}} in {{Diseases}}},
+  author = {Catchpoole, Daniel and Simoff, Simeon and Kennedy, Paul and Nguyen, Quang Vinh},
+  year = {2023},
+  month = dec,
+  publisher = {CRC Press},
+  googlebooks = {GqQIEQAAQBAJ},
+  isbn = {978-1-003-80028-6},
+  langid = {english},
+  keywords = {Business & Economics / Industries / Healthcare,Computers / Computer Science,Computers / Data Science / Data Analytics,Computers / General,Computers / Programming / Games,Healthcare,Mathematics / Probability & Statistics / General,Medical / Epidemiology,Medical / Informatics,Paper_Actionability,Science / Life Sciences / Biology}
+}
+
+@incollection{chalutz-bengal_HumanResourcesBasedOrganizational_2023,
+  title = {Human {{Resources-Based Organizational Data Mining}} ({{HRODM}}): {{Themes}}, {{Trends}}, {{Focus}}, {{Future}}},
+  shorttitle = {Human {{Resources-Based Organizational Data Mining}} ({{HRODM}})},
+  booktitle = {Machine {{Learning}} for {{Data Science Handbook}}},
+  author = {{Chalutz-Ben Gal}, Hila},
+  year = {2023},
+  pages = {833--866},
+  publisher = {Springer, Cham},
+  doi = {10.1007/978-3-031-24628-9_36},
+  urldate = {2025-08-09},
+  isbn = {978-3-031-24628-9},
+  langid = {english},
+  keywords = {Business_Analysis,Paper_Actionability}
+}
+
+@article{cheng_DECEDecisionExplorer_2021,
+  title = {{{DECE}}: {{Decision Explorer}} with {{Counterfactual Explanations}} for {{Machine Learning Models}}},
+  shorttitle = {{{DECE}}},
+  author = {Cheng, Furui and Ming, Yao and Qu, Huamin},
+  year = {2021},
+  month = feb,
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {27},
+  number = {2},
+  pages = {1438--1447},
+  issn = {1077-2626, 1941-0506, 2160-9306},
+  doi = {10.1109/TVCG.2020.3030342},
+  urldate = {2025-06-09},
+  copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
+  langid = {english},
+  keywords = {Causality,Explainability,notion,Paper_Actionability}
+}
+
+@article{chimusa_DissectingGeneralizabilityActionability_2022,
+  title = {Dissecting {{Generalizability}} and {{Actionability}} of {{Disease-Associated Genes From}} 20 {{Worldwide Ethnolinguistic Cultural Groups}}},
+  author = {Chimusa, Emile R. and Alosaimi, Shatha and Bope, Christian D.},
+  year = {2022},
+  month = jun,
+  journal = {Frontiers in Genetics},
+  volume = {13},
+  publisher = {Frontiers},
+  issn = {1664-8021},
+  doi = {10.3389/fgene.2022.835713},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {Actionable gene,Genetics diversity,Healthcare,Incidental finding,Next Generation Sequencing,Paper_Actionability,Population Genetics,Population genetics Actionable gene,whole genome sequencing}
+}
+
+@inproceedings{combiIntegratedExplorationDataIntensive2022,
+  title = {Integrated {{Exploration}} of {{Data-Intensive Business Processes}} [{{Extended Abstract}}]},
+  booktitle = {2022 {{IEEE World Congress}} on {{Services}} ({{SERVICES}})},
+  author = {Combi, Carlo and Oliboni, Barbara and Zerbato, Francesca},
+  year = {2022},
+  month = jul,
+  pages = {25--25},
+  issn = {2642-939X},
+  doi = {10.1109/SERVICES55459.2022.00038},
+  urldate = {2025-06-09},
+  keywords = {Analytical models,BPMN,Business,Cognition,Computational modeling,Conceptual Database Design,Data models,Databases,notion,Paper_Actionability,Process Analysis,Process control,Process improvement,Process Modeling,Relational Database,SQL,XML.}
+}
+
+@article{dambrosio_PIK3R1W624RActionable_2020,
+  title = {{{PIK3R1 W624R Is}} an {{Actionable Mutation}} in {{High Grade Serous Ovarian Carcinoma}}},
+  author = {D'Ambrosio and Erriquez and Arigoni and Capellero and Mittica and Ghisoni and Borella and Katsaros and Privitera and Ribotta and Maldi and Nardo, Di and Berrino and Venesio and Ponzone and Vaira and Hall and {Jimenez-Linan} and Paterson and Calogero and Brenton and Valabrega and Renzo, Di and Olivero},
+  year = {2020},
+  month = feb,
+  publisher = {MDPI},
+  doi = {10.3390/cells9020442},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@article{deleoni_GeneralProcessMining_2015,
+  title = {A General Process Mining Framework for Correlating, Predicting and Clustering Dynamic Behavior Based on Event Logs},
+  author = {{\noopsort{leoni}}{de Leoni}, Massimiliano and Aalst, Wil and Dees, Marcus},
+  year = {2015},
+  month = jul,
+  journal = {Information Systems},
+  volume = {56},
+  doi = {10.1016/j.is.2015.07.003},
+  keywords = {Clustering,Correlation,notion,PA_Feature_Analysis,PA_Insights_Generation,Paper_Actionability,Predictive Monitoring,Process Mining}
+}
+
+@inproceedings{delobelle_MetricsWhatMetrics_2024a,
+  title = {Metrics for {{What}}, {{Metrics}} for {{Whom}}: {{Assessing Actionability}} of {{Bias Evaluation Metrics}} in {{NLP}}},
+  shorttitle = {Metrics for {{What}}, {{Metrics}} for {{Whom}}},
+  booktitle = {Proceedings of the 2024 {{Conference}} on {{Empirical Methods}} in {{Natural Language Processing}}},
+  author = {Delobelle, Pieter and Attanasio, Giuseppe and Nozza, Debora and Blodgett, Su Lin and Talat, Zeerak},
+  editor = {{Al-Onaizan}, Yaser and Bansal, Mohit and Chen, Yun-Nung},
+  year = {2024},
+  month = nov,
+  pages = {21669--21691},
+  publisher = {Association for Computational Linguistics},
+  address = {Miami, Florida, USA},
+  doi = {10.18653/v1/2024.emnlp-main.1207},
+  urldate = {2025-08-09},
+  keywords = {Actionability,Other,Paper_Actionability}
+}
+
+@article{djenontin_CoproducingWaterenergyfoodNexus_2025,
+  title = {Coproducing Water-Energy-Food {{Nexus}} Actionable Knowledge: {{Lessons}} from a Multi-Actor Collaborative Learning School in {{Uganda}}, {{East Africa}}},
+  shorttitle = {Coproducing Water-Energy-Food {{Nexus}} Actionable Knowledge},
+  author = {Djenontin, Ida N. S. and Daher, Bassel and Johnson, Jacob W. and Adule, Kenan and Hishe, Birhanu K. and Kekirunga, Patience and King, Vanessa and Mullaney, Emma Gaalaas and Nimushaba, Patience and Jacobson, Michael G. and {Huber-Lee}, Annette and Kayendeke, Ellen J. and Konak, Abdullah and Morrone, Vicki L. and Obonyo, Esther and Sanya, Losira N. and Olabisi, Laura Schmitt and Jim{\'e}nez, Silvia Ulloa and Scott, Christopher A.},
+  year = {2025},
+  month = apr,
+  journal = {Environmental Science \& Policy},
+  volume = {166},
+  pages = {104028},
+  issn = {1462-9011},
+  doi = {10.1016/j.envsci.2025.104028},
+  urldate = {2025-08-09},
+  keywords = {Actionable knowledge,Cross-scale process,Design thinking,Other,Paper_Actionability,Stakeholder engagement,Systems thinking,Uganda,WEF Nexus}
+}
+
+@inproceedings{du_EfficientActionExtraction_2011,
+  title = {Efficient {{Action Extraction}} with {{Many-to-Many Relationship}} between {{Actions}} and {{Features}}},
+  booktitle = {Logic, {{Rationality}}, and {{Interaction}}},
+  author = {Du, Jianfeng and Hu, Yong and Ling, Charles X. and Fan, Ming and Liu, Mei},
+  year = {2011},
+  pages = {384--385},
+  publisher = {Springer, Berlin, Heidelberg},
+  issn = {1611-3349},
+  doi = {10.1007/978-3-642-24130-7_29},
+  urldate = {2025-08-09},
+  isbn = {978-3-642-24130-7},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{dumas_AIaugmentedBusinessProcess_2023,
+  title = {{{AI-augmented Business Process Management Systems}}: {{A Research Manifesto}}},
+  shorttitle = {{{AI-augmented Business Process Management Systems}}},
+  author = {Dumas, Marlon and Fournier, Fabiana and Limonad, Lior and Marrella, Andrea and Montali, Marco and Rehse, Jana-Rebecca and Accorsi, Rafael and Calvanese, Diego and De Giacomo, Giuseppe and Fahland, Dirk and Gal, Avigdor and La Rosa, Marcello and V{\"o}lzer, Hagen and Weber, Ingo},
+  year = {2023},
+  month = jan,
+  journal = {ACM Trans. Manage. Inf. Syst.},
+  volume = {14},
+  number = {1},
+  pages = {11:1--11:19},
+  issn = {2158-656X},
+  doi = {10.1145/3576047},
+  urldate = {2025-06-09},
+  keywords = {Challenges,notion,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@book{dumas_FundamentalsBusinessProcess_2013,
+  title = {Fundamentals of {{Business Process Management}}},
+  author = {Dumas, Marlon and La Rosa, Marcello and Mendling, Jan and Reijers, Hajo A.},
+  year = {2013},
+  publisher = {Springer Berlin Heidelberg},
+  address = {Berlin, Heidelberg},
+  doi = {10.1007/978-3-642-33143-5},
+  urldate = {2025-06-08},
+  copyright = {http://www.springer.com/tdm},
+  isbn = {978-3-642-33142-8 978-3-642-33143-5},
+  langid = {english},
+  keywords = {BPM,Handbook,notion,Paper_Actionability,Process Mining}
+}
+
+@article{eidinow_TellingStoriesExploring_2016,
+  title = {Telling Stories: {{Exploring}} the Relationship between Myths and Ecological Wisdom},
+  shorttitle = {Telling Stories},
+  author = {Eidinow, Esther},
+  year = {2016},
+  month = nov,
+  journal = {Landscape and Urban Planning},
+  series = {Ecological {{Wisdom}} for {{Urban Sustainability}}: {{Doing}} Real and Permanent Good in Ecological Practice},
+  volume = {155},
+  pages = {47--52},
+  issn = {0169-2046},
+  doi = {10.1016/j.landurbplan.2016.04.014},
+  urldate = {2025-08-09},
+  keywords = {Indigenous knowledge,Myths,Other,Paper_Actionability,Phronesis,Scenarios,Stories,Wisdom}
+}
+
+@article{fayyad_DataMiningKnowledge_1996,
+  title = {From {{Data Mining}} to {{Knowledge Discovery}} in {{Databases}}},
+  author = {Fayyad, Usama and {Piatetsky-Shapiro}, Gregory and Smyth, Padhraic},
+  year = {1996},
+  month = mar,
+  journal = {AI Magazine},
+  volume = {17},
+  number = {3},
+  pages = {37--37},
+  issn = {2371-9621},
+  doi = {10.1609/aimag.v17i3.1230},
+  urldate = {2025-06-08},
+  copyright = {Copyright (c)},
+  langid = {english},
+  keywords = {Actionability,Data Mining,Knowledge,notion,Paper_Actionability}
+}
+
+@article{fehrer_AssistedApproachBusiness_2022,
+  title = {An Assisted Approach to Business Process Redesign},
+  author = {Fehrer, Tobias and Fischer, Dominik A. and Leemans, Sander J.J. and R{\"o}glinger, Maximilian and Wynn, Moe T.},
+  year = {2022},
+  month = may,
+  journal = {Decision Support Systems},
+  volume = {156},
+  pages = {113749},
+  issn = {01679236},
+  doi = {10.1016/j.dss.2022.113749},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {notion,PA_Framework,PA_Motivation,Paper_Actionability,Process improvement,Process Mining},
+  annotation = {A tool for assisting in Process Redesign.}
+}
+
+@incollection{fekete_ValueInformationVisualization_2008,
+  title = {The {{Value}} of {{Information Visualization}}},
+  booktitle = {Information {{Visualization}}},
+  author = {Fekete, Jean-Daniel and Van Wijk, Jarke J. and Stasko, John T. and North, Chris},
+  editor = {Hutchison, David and Kanade, Takeo and Kittler, Josef and Kleinberg, Jon M. and Mattern, Friedemann and Mitchell, John C. and Naor, Moni and Nierstrasz, Oscar and Pandu Rangan, C. and Steffen, Bernhard and Sudan, Madhu and Terzopoulos, Demetri and Tygar, Doug and Vardi, Moshe Y. and Weikum, Gerhard and Kerren, Andreas and Stasko, John T. and Fekete, Jean-Daniel and North, Chris},
+  year = {2008},
+  volume = {4950},
+  pages = {1--18},
+  publisher = {Springer Berlin Heidelberg},
+  address = {Berlin, Heidelberg},
+  doi = {10.1007/978-3-540-70956-5_1},
+  urldate = {2025-06-13},
+  isbn = {978-3-540-70955-8 978-3-540-70956-5},
+  langid = {english},
+  keywords = {Paper_Actionability,Visualization}
+}
+
+@inproceedings{fernandez-nieto_YarnSenseAutomatedData_2024,
+  title = {{{YarnSense}}: {{Automated}} Data Storytelling for Multimodal Learning Analytics},
+  shorttitle = {{{YarnSense}}},
+  booktitle = {2024 {{Joint}} of {{International Conference}} on {{Learning Analytics}} and {{Knowledge Workshops}}},
+  author = {{Fern{\'a}ndez-Nieto}, Gloria Milena and Echeverria, Vanessa and {Martinez-Maldonado}, Roberto and Shum, Simon Buckingham},
+  year = {2024},
+  pages = {124--138},
+  publisher = {CEUR-WS},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {Paper_Actionability,Visual_Analytics}
+}
+
+@article{franzoi_ExplainingProcessDynamics_2025,
+  title = {Explaining Process Dynamics: A {{Process Mining Context Taxonomy}} for Sense-Making},
+  shorttitle = {Explaining Process Dynamics},
+  author = {Franzoi, Sandro and Hartl, Sophie and Grisold, Thomas and Van Der Aa, Han and Mendling, Jan and Vom Brocke, Jan},
+  year = {2025},
+  month = mar,
+  journal = {Process Science},
+  volume = {2},
+  number = {1},
+  pages = {2},
+  issn = {2948-2178},
+  doi = {10.1007/s44311-025-00008-6},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Explainability,notion,Paper_Actionability,Process Mining}
+}
+
+@article{furukawa_AssessingUnderstandabilityActionability_2025,
+  title = {Assessing the Understandability and Actionability of Online Resources for Patients Undergoing Hemodialysis},
+  author = {Furukawa, Emi and Okuhara, Tsuyoshi and Okada, Hiroko and Fujitomo, Yumiko and Kiuchi, Takahiro},
+  year = {2025},
+  month = apr,
+  journal = {Therapeutic Apheresis and Dialysis},
+  volume = {29},
+  number = {2},
+  pages = {200--209},
+  issn = {1744-9979, 1744-9987},
+  doi = {10.1111/1744-9987.14221},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,notion,Paper_Actionability}
+}
+
+@article{furukawa_EvaluatingOnlineOffline_2025,
+  title = {Evaluating {{Online}} and {{Offline Health Information With}} the {{Patient Education Materials Assessment Tool}}: {{Protocol}} for a {{Systematic Review}}},
+  shorttitle = {Evaluating {{Online}} and {{Offline Health Information With}} the {{Patient Education Materials Assessment Tool}}},
+  author = {Furukawa, Emi and Okuhara, Tsuyoshi and Liu, Mingxin and Okada, Hiroko and Kiuchi, Takahiro},
+  year = {2025},
+  month = jan,
+  journal = {JMIR Research Protocols},
+  volume = {14},
+  pages = {e63489},
+  issn = {1929-0748},
+  doi = {10.2196/63489},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,Healthcare,notion,Paper_Actionability}
+}
+
+@article{furukawa_EvaluatingUnderstandabilityActionability_2024,
+  title = {Evaluating the Understandability and Actionability of Online {{CKD}} Educational Materials},
+  author = {Furukawa, Emi and Okuhara, Tsuyoshi and Okada, Hiroko and Nishiie, Yuriko and Kiuchi, Takahiro},
+  year = {2024},
+  month = jan,
+  journal = {Clinical and Experimental Nephrology},
+  volume = {28},
+  number = {1},
+  pages = {31--39},
+  issn = {1342-1751, 1437-7799},
+  doi = {10.1007/s10157-023-02401-6},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,Healthcare,notion,Paper_Actionability}
+}
+
+@book{ghionna_OutlierDetectionTechniques_2008,
+  title = {Outlier {{Detection Techniques}} for {{Process Mining Applications}}},
+  author = {Ghionna, Lucantonio and Greco, Gianluigi and Guzzo, Antonella and Pontieri, Luigi},
+  year = {2008},
+  month = may,
+  volume = {4994},
+  pages = {159},
+  doi = {10.1007/978-3-540-68123-6_17},
+  isbn = {978-3-540-68122-9},
+  keywords = {A_Insights_Generation,Anomaly detection,notion,Paper_Actionability,Process Mining}
+}
+
+@article{gray_TransformingDiseaseData_2025,
+  title = {Transforming Disease Data into `Actionable Intelligence'},
+  author = {Gray, Arabella},
+  year = {2025},
+  journal = {Veterinary Record},
+  volume = {196},
+  number = {8},
+  pages = {296--297},
+  issn = {2042-7670},
+  doi = {10.1002/vetr.5447},
+  urldate = {2025-07-24},
+  copyright = {{\copyright} 2025 British Veterinary Association},
+  langid = {english},
+  keywords = {Actionability,Healthcare,Paper_Actionability}
+}
+
+@inproceedings{hartl_ExplainingChangeDigital_2023,
+  title = {Explaining {{Change}} with {{Digital Trace Data}}: {{A Framework}} for {{Temporal Bracketing}}},
+  shorttitle = {Explaining {{Change}} with {{Digital Trace Data}}},
+  booktitle = {Hawaii {{International Conference}} on {{System Sciences}}},
+  author = {Hartl, Sophie and Franzoi, Sandro and Grisold, Thomas and Vom Brocke, Jan},
+  year = {2023},
+  eprint = {10125/103323},
+  eprinttype = {hdl},
+  doi = {10.24251/HICSS.2023.689},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Explainability,notion,PA_Insights_Generation,Paper_Actionability,Process Mining},
+  annotation = {Tool for discovering changes - not actionability in itself but help to generate insights.}
+}
+
+@inproceedings{hoffmann_DevelopmentActionableInsights_2022,
+  title = {Development of {{Actionable Insights}} for {{Regulating Students}}' {{Collaborative Writing}} of {{Scientific Texts}}},
+  booktitle = {Educating for a {{New Future}}: {{Making Sense}} of {{Technology-Enhanced Learning Adoption}}},
+  author = {Hoffmann, Christian and Mandran, Nadine and {\noopsort{ham}}{d'Ham}, C{\'e}dric and Rebaudo, S{\'e}bastien and Haddouche, Mohamed Anis},
+  year = {2022},
+  pages = {534--541},
+  publisher = {Springer, Cham},
+  issn = {1611-3349},
+  doi = {10.1007/978-3-031-16290-9_47},
+  urldate = {2025-08-09},
+  isbn = {978-3-031-16290-9},
+  langid = {english},
+  keywords = {Education,Paper_Actionability}
+}
+
+@article{holscher_CreatingActionableKnowledge_2023,
+  title = {Creating Actionable Knowledge One Step at a Time: {{An}} Analytical Framework for Tracing Systems and Agency in Niche Innovation Pathways},
+  shorttitle = {Creating Actionable Knowledge One Step at a Time},
+  author = {H{\"o}lscher, Katharina and Wittmayer, Julia M. and Olfert, Alfred and {Hirschnitz-Garbers}, Martin and Walther, J{\"o}rg and Schiller, Georg},
+  year = {2023},
+  month = mar,
+  journal = {Environmental Innovation and Societal Transitions},
+  volume = {46},
+  pages = {100682},
+  issn = {2210-4224},
+  doi = {10.1016/j.eist.2022.11.007},
+  urldate = {2025-08-09},
+  keywords = {Actionable knowledge,Development pathways,Infrastructures,Niche innovations,Other,Paper_Actionability,Sustainability transitions}
+}
+
+@article{holstein_CoDesigningRealTimeClassroom_2019,
+  title = {Co-{{Designing}} a {{Real-Time Classroom Orchestration Tool}} to {{Support Teacher}}--{{AI Complementarity}}},
+  author = {Holstein, Kenneth and McLaren, Bruce M. and Aleven, Vincent},
+  year = {2019},
+  month = jul,
+  journal = {Journal of Learning Analytics},
+  volume = {6},
+  number = {2},
+  pages = {27--52},
+  issn = {1929-7750},
+  doi = {10.18608/jla.2019.62.3},
+  urldate = {2025-06-08},
+  copyright = {Copyright (c) 2019 Journal of Learning Analytics},
+  langid = {english},
+  keywords = {Actionability,Education,notion,Paper_Actionability,participatory design}
+}
+
+@article{honora_ManagingSocialMedia_2022,
+  title = {Managing Social Media Recovery: {{The}} Important Role of Service Recovery Transparency in Retaining Customers},
+  shorttitle = {Managing Social Media Recovery},
+  author = {Honora, Andreawan and Chih, Wen-Hai and Wang, Kai-Yu},
+  year = {2022},
+  month = jan,
+  journal = {Journal of Retailing and Consumer Services},
+  volume = {64},
+  pages = {102814},
+  issn = {0969-6989},
+  doi = {10.1016/j.jretconser.2021.102814},
+  urldate = {2025-08-09},
+  keywords = {Apology,Business_Analysis,Customer forgiveness,Explanation,Paper_Actionability,Service recovery transparency,Social media}
+}
+
+@article{jorno_WhatConstitutesActionable_2018,
+  title = {What {{Constitutes}} an `{{Actionable Insight}}' in {{Learning Analytics}}?},
+  author = {J{\o}rn{\o}, Rasmus Leth and Gynther, Karsten},
+  year = {2018},
+  month = dec,
+  journal = {Journal of Learning Analytics},
+  volume = {5},
+  number = {3},
+  pages = {198--221},
+  issn = {1929-7750},
+  doi = {10.18608/jla.2018.53.13},
+  urldate = {2025-06-08},
+  copyright = {Copyright (c) 2018 Journal of Learning Analytics},
+  langid = {english},
+  keywords = {Actionability,Data-informed decisionmaking,Education,notion,Paper_Actionability}
+}
+
+@article{kallen_DevelopmentActionableQuality_2018,
+  title = {Development of Actionable Quality Indicators and an Action Implementation Toolbox for Appropriate Antibiotic Use at Intensive Care Units: {{A}} Modified-{{RAND Delphi}} Study},
+  shorttitle = {Development of Actionable Quality Indicators and an Action Implementation Toolbox for Appropriate Antibiotic Use at Intensive Care Units},
+  author = {Kallen, Marlot C. and {Roos-Blom}, Marie-Jose and Dongelmans, Dave A. and Schouten, Jeroen A. and Gude, Wouter T. and {\noopsort{jonge}}de Jonge, Evert and Prins, Jan M. and {\noopsort{keizer}}de Keizer, Nicolette F.},
+  year = {2018},
+  month = nov,
+  journal = {PLOS ONE},
+  volume = {13},
+  number = {11},
+  pages = {e0207991},
+  publisher = {Public Library of Science},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0207991},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {Antibiotics,Antimicrobials,Blood,Drug therapy,Healthcare,Intensive care units,Paper_Actionability,Surveys,Therapeutic drug monitoring,Vancomycin}
+}
+
+@inproceedings{kanamori_DACEDistributionAwareCounterfactual_2020,
+  title = {{{DACE}}: {{Distribution-Aware Counterfactual Explanation}} by {{Mixed-Integer Linear Optimization}}},
+  shorttitle = {{{DACE}}},
+  booktitle = {Proceedings of the {{Twenty-Ninth International Joint Conference}} on {{Artificial Intelligence}}},
+  author = {Kanamori, Kentaro and Takagi, Takuya and Kobayashi, Ken and Arimura, Hiroki},
+  year = {2020},
+  month = jul,
+  pages = {2855--2862},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  address = {Yokohama, Japan},
+  doi = {10.24963/ijcai.2020/395},
+  urldate = {2025-06-09},
+  isbn = {978-0-9992411-6-5},
+  langid = {english},
+  keywords = {Causality,notion,Paper_Actionability}
+}
+
+@misc{karimi_SurveyAlgorithmicRecourse_2021,
+  title = {A Survey of Algorithmic Recourse: Definitions, Formulations, Solutions, and Prospects},
+  shorttitle = {A Survey of Algorithmic Recourse},
+  author = {Karimi, Amir-Hossein and Barthe, Gilles and Sch{\"o}lkopf, Bernhard and Valera, Isabel},
+  year = {2021},
+  month = mar,
+  number = {arXiv:2010.04050},
+  eprint = {2010.04050},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2010.04050},
+  urldate = {2025-06-08},
+  archiveprefix = {arXiv},
+  keywords = {Actionability,Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Machine Learning,notion,Paper_Actionability,Statistics - Machine Learning}
+}
+
+@article{keen_DecisionSupportSystems_1987,
+  title = {Decision Support Systems: {{The}} next Decade},
+  shorttitle = {Decision Support Systems},
+  author = {Keen, Peter G. W.},
+  year = {1987},
+  month = sep,
+  journal = {Decision Support Systems},
+  volume = {3},
+  number = {3},
+  pages = {253--265},
+  issn = {0167-9236},
+  doi = {10.1016/0167-9236(87)90180-1},
+  urldate = {2025-06-08},
+  keywords = {Decision Support System,notion,Paper_Actionability}
+}
+
+@incollection{keim_VisualAnalyticsDefinition_2008,
+  title = {Visual {{Analytics}}: {{Definition}}, {{Process}}, and {{Challenges}}},
+  shorttitle = {Visual {{Analytics}}},
+  booktitle = {Information {{Visualization}}},
+  author = {Keim, Daniel and Andrienko, Gennady and Fekete, Jean-Daniel and G{\"o}rg, Carsten and Kohlhammer, J{\"o}rn and Melan{\c c}on, Guy},
+  editor = {Kerren, Andreas and Stasko, John T. and Fekete, Jean-Daniel and North, Chris},
+  year = {2008},
+  volume = {4950},
+  pages = {154--175},
+  publisher = {Springer Berlin Heidelberg},
+  address = {Berlin, Heidelberg},
+  issn = {0302-9743, 1611-3349},
+  doi = {10.1007/978-3-540-70956-5_7},
+  urldate = {2025-06-08},
+  isbn = {978-3-540-70955-8 978-3-540-70956-5},
+  langid = {english},
+  keywords = {notion,Paper_Actionability,Visualization}
+}
+
+@article{kim-soon_FrameworkAnalyzingRelationships_2022,
+  title = {A Framework for Analyzing the Relationships between Cancer Patient Satisfaction, Nurse Care, Patient Attitude, and Nurse Attitude in Healthcare Systems},
+  author = {{Kim-Soon}, Ng and Abdulmaged, Alyaa Idrees and Mostafa, Salama A. and Mohammed, Mazin Abed and Musbah, Fadia Abdalla and Ali, Rabei Raad and Geman, Oana},
+  year = {2022},
+  month = jan,
+  journal = {Journal of Ambient Intelligence and Humanized Computing},
+  volume = {13},
+  number = {1},
+  pages = {87--104},
+  publisher = {Springer Berlin Heidelberg},
+  issn = {1868-5145},
+  doi = {10.1007/s12652-020-02888-x},
+  urldate = {2025-08-09},
+  copyright = {2021 The Author(s), under exclusive licence to Springer-Verlag GmbH, DE part of Springer Nature},
+  langid = {english},
+  keywords = {Healthcare,Paper_Actionability,Test_Python}
+}
+
+@inproceedings{klijn_AggregatingEventKnowledge_2023,
+  title = {Aggregating {{Event Knowledge Graphs}} for~{{Task Analysis}}},
+  booktitle = {Process {{Mining Workshops}}},
+  author = {Klijn, Eva L. and Mannhardt, Felix and Fahland, Dirk},
+  editor = {Montali, Marco and Senderovich, Arik and Weidlich, Matthias},
+  year = {2023},
+  pages = {493--505},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-27815-0_36},
+  isbn = {978-3-031-27815-0},
+  langid = {english},
+  keywords = {Aggregation,Knowledge graph,notion,Paper_Actionability,Process Mining,Tasks}
+}
+
+@inproceedings{klijn_MultiperspectiveConceptDrift_2024,
+  title = {Multi-Perspective {{Concept Drift Detection}}: {{Including}} the~{{Actor Perspective}}},
+  shorttitle = {Multi-Perspective {{Concept Drift Detection}}},
+  booktitle = {Advanced {{Information Systems Engineering}}},
+  author = {Klijn, Eva L. and Mannhardt, Felix and Fahland, Dirk},
+  editor = {Guizzardi, Giancarlo and Santoro, Flavia and Mouratidis, Haralambos and Soffer, Pnina},
+  year = {2024},
+  pages = {141--157},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-61057-8_9},
+  isbn = {978-3-031-61057-8},
+  langid = {english},
+  keywords = {actors,concept drift,knowledge graph,multi-perspective,Paper_Actionability,Process Mining}
+}
+
+@article{krishna_TradeoffsAdversarialRobustness_2024,
+  title = {On the {{Trade-offs}} between {{Adversarial Robustness}} and {{Actionable Explanations}}},
+  author = {Krishna, Satyapriya and Agarwal, Chirag and Lakkaraju, Himabindu},
+  year = {2024},
+  month = oct,
+  journal = {Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society},
+  volume = {7},
+  pages = {784--795},
+  issn = {3065-8365},
+  doi = {10.1609/aies.v7i1.31679},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,Explainability,Machine Learning,notion,Paper_Actionability}
+}
+
+@article{kubrak_PrescriptiveProcessMonitoring_2022,
+  title = {Prescriptive Process Monitoring: {{{\emph{Quo}}}}{\emph{ Vadis}} ?},
+  shorttitle = {Prescriptive Process Monitoring},
+  author = {Kubrak, Kateryna and Milani, Fredrik and Nolte, Alexander and Dumas, Marlon},
+  year = {2022},
+  month = sep,
+  journal = {PeerJ Computer Science},
+  volume = {8},
+  pages = {e1097},
+  issn = {2376-5992},
+  doi = {10.7717/peerj-cs.1097},
+  urldate = {2025-06-08},
+  copyright = {https://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  keywords = {notion,Paper_Actionability,Prescriptive Monitoring,Process Mining},
+  annotation = {Kubrak et al. describe how prescriptive process moniotoring can fullfill actionability dimensions (or some of them)}
+}
+
+@article{kubrak_VisualApproachSupport_2023,
+  title = {A Visual Approach to Support Process Analysts in Working with Process Improvement Opportunities},
+  author = {Kubrak, Kateryna and Milani, Fredrik and Nolte, Alexander},
+  year = {2023},
+  month = apr,
+  journal = {Business Process Management Journal},
+  volume = {29},
+  number = {8},
+  pages = {101--132},
+  publisher = {Emerald Publishing Limited},
+  issn = {1463-7154},
+  doi = {10.1108/BPMJ-10-2021-0631},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {notion,PA_Insights_Generation,PA_Motivation,Paper_Actionability,Process Mining,Visualization}
+}
+
+@article{kucher_VisualAnalyticsExplainable_2025,
+  title = {Towards {{Visual Analytics}} for {{Explainable AI}} in {{Industrial Applications}}},
+  author = {Kucher, Kostiantyn and Zohrevandi, Elmira and Westin, Carl A. L.},
+  year = {2025},
+  month = feb,
+  journal = {Analytics},
+  volume = {4},
+  number = {1},
+  pages = {7},
+  issn = {2813-2203},
+  doi = {10.3390/analytics4010007},
+  urldate = {2025-06-13},
+  copyright = {https://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  keywords = {Explainability,Paper_Actionability,Visualization}
+}
+
+@article{kuhn_PlanningActionImpact_2015,
+  title = {Planning for {{Action}}: {{The Impact}} of an {{Asthma Action Plan Decision Support Tool Integrated}} into an {{Electronic Health Record}} ({{EHR}}) at a {{Large Health Care System}}},
+  shorttitle = {Planning for {{Action}}},
+  author = {Kuhn, Lindsay and Reeves, Kelly and Taylor, Yhenneko and Tapp, Hazel and McWilliams, Andrew and Gunter, Andrew and Cleveland, Jeffrey and Dulin, Michael},
+  year = {2015},
+  month = may,
+  journal = {The Journal of the American Board of Family Medicine},
+  volume = {28},
+  number = {3},
+  pages = {382--393},
+  publisher = {American Board of Family Medicine},
+  issn = {1557-2625, 1558-7118},
+  doi = {10.3122/jabfm.2015.03.140248},
+  urldate = {2025-06-08},
+  chapter = {Original Research},
+  copyright = {{\copyright} Copyright 2015 by the American Board of Family Medicine.},
+  langid = {english},
+  pmid = {25957371},
+  keywords = {Asthma,Clinical Decision Support Systems,Electronic Health Records,Healthcare,notion,Outcomes Assessment,Paper_Actionability}
+}
+
+@article{kwon_RetainVisVisualAnalytics_2019,
+  title = {{{RetainVis}}: {{Visual Analytics}} with {{Interpretable}} and {{Interactive Recurrent Neural Networks}} on {{Electronic Medical Records}}},
+  shorttitle = {{{RetainVis}}},
+  author = {Kwon, Bum Chul and Choi, Min-Je and Kim, Joanne Taery and Choi, Edward and Kim, Young Bin and Kwon, Soonwook and Sun, Jimeng and Choo, Jaegul},
+  year = {2019},
+  month = jan,
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {25},
+  number = {1},
+  pages = {299--309},
+  issn = {1941-0506},
+  doi = {10.1109/TVCG.2018.2865027},
+  urldate = {2025-06-09},
+  keywords = {Computational modeling,Data models,Healthcare,Interactive Artificial Intelligence,Interpretable Deep Learning,Machine learning,Medical diagnostic imaging,notion,Paper_Actionability,Predictive models,Task analysis,Visual analytics,Visualization,XAI (Explainable Artificial Intelligence)}
+}
+
+@article{lalrajora_OpenSourceToolBoxAsset_2025,
+  title = {An {{Open-Source Tool-Box}} for {{Asset Management Based}} on the {{Asset Condition}} for the {{Power System}}},
+  author = {Lal Rajora, Gopal and {Sanz-Bobi}, Miguel A. and Domingo, Carlos Mateo and Tjernberg, Lina Bertling},
+  year = {2025},
+  journal = {IEEE Access},
+  volume = {13},
+  pages = {49174--49186},
+  issn = {2169-3536},
+  doi = {10.1109/ACCESS.2025.3551663},
+  urldate = {2025-08-09},
+  keywords = {asset health assessment,Asset management,ATTEST,Companies,condition monitoring,data-driven insights,Europe,Healthcare,machine learning,Machine learning,Maintenance,Paper_Actionability,Power grids,power system asset management,Power system reliability,Power systems,Power transformers,predictive maintenance,reinforcement learning,Sustainable development}
+}
+
+@article{lam_IdentifyingActionableStrategies_2021,
+  title = {Identifying Actionable Strategies: Using {{Consolidated Framework}} for {{Implementation Research}} ({{CFIR}})-Informed Interviews to Evaluate the Implementation of a Multilevel Intervention to Improve Colorectal Cancer Screening},
+  shorttitle = {Identifying Actionable Strategies},
+  author = {Lam, Helen and Quinn, Michael and {Cipriano-Steffens}, Toni and Jayaprakash, Manasi and Koebnick, Emily and Randal, Fornessa and Liebovitz, David and Polite, Blas{\'e} and Kim, Karen},
+  year = {2021},
+  month = may,
+  journal = {Implementation Science Communications},
+  volume = {2},
+  number = {1},
+  pages = {57},
+  issn = {2662-2211},
+  doi = {10.1186/s43058-021-00150-9},
+  urldate = {2025-08-09},
+  keywords = {Colorectal cancer screening,Consolidated Framework for Implementation Research,Evidence-based intervention,Federally Qualified Health Center,Healthcare,Implementation,Implementation strategy,Paper_Actionability}
+}
+
+@inproceedings{lashkevich_DiscoveryImprovementOpportunities_2023,
+  title = {Discovery of~{{Improvement Opportunities}} in~{{Knock-Out Checks}} of~{{Business Processes}}},
+  booktitle = {Research {{Challenges}} in {{Information Science}}: {{Information Science}} and the {{Connected World}}},
+  author = {Lashkevich, Katsiaryna and Mediavilla Ponce, Lino Moises and Camargo, Manuel and Milani, Fredrik and Dumas, Marlon},
+  editor = {Nurcan, Selmin and Opdahl, Andreas L. and Mouratidis, Haralambos and Tsohou, Aggeliki},
+  year = {2023},
+  pages = {381--397},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-33080-3_23},
+  isbn = {978-3-031-33080-3},
+  langid = {english},
+  keywords = {A_Insights_Generation,Business process improvement,notion,Overprocessing waste,Paper_Actionability,Process improvement,Process Mining}
+}
+
+@article{lau_WhatHerIncreasing_2022,
+  title = {What {{About Her}}? {{Increasing}} the {{Actionability}} of {{HUMINT}} in {{Paternalistic Cultures}} by {{Considering Female Intelligence}}},
+  shorttitle = {What {{About Her}}?},
+  author = {Lau, Stephan and Bauer, Farina T. S.},
+  year = {2022},
+  month = oct,
+  journal = {International Journal of Intelligence and CounterIntelligence},
+  volume = {35},
+  number = {4},
+  pages = {726--743},
+  publisher = {Routledge},
+  issn = {0885-0607},
+  doi = {10.1080/08850607.2022.2068890},
+  urldate = {2025-08-09},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@article{lebedeva_MultiInstitutionalEvaluationInterrater_2025,
+  title = {Multi-{{Institutional Evaluation}} of {{Interrater Agreement}} of {{Biomarker-Drug Pair Rankings Based}} on the {{ESMO Scale}} for {{Clinical Actionability}} of Molecular {{Targets}} ({{ESCAT}}) and {{Sources}} of {{Discordance}}},
+  author = {Lebedeva, Alexandra and Belova, Ekaterina and Kavun, Alexandra and Taraskina, Anastasiia and Bartoletti, Michele and Bi{\`e}che, Ivan and Curigliano, Giuseppe and Dupain, C{\'e}lia and {Rios-Hoyo}, Alejandro and Kamal, Maud and Luchini, Claudio and Poyarkov, Stanislav and Le Tourneau, Christophe and Veselovsky, Egor and Mileyko, Vladislav and Ivanov, Maxim},
+  year = {2025},
+  month = jan,
+  journal = {Molecular Diagnosis \& Therapy},
+  volume = {29},
+  number = {1},
+  pages = {91--101},
+  publisher = {Springer International Publishing},
+  issn = {1179-2000},
+  doi = {10.1007/s40291-024-00748-4},
+  urldate = {2025-08-09},
+  copyright = {2024 The Author(s), under exclusive licence to Springer Nature Switzerland AG},
+  langid = {english},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@incollection{liModifiedLIMEIts2019,
+  title = {A {{Modified LIME}} and {{Its Application}} to {{Explain Service Supply Chain Forecasting}}},
+  booktitle = {Natural {{Language Processing}} and {{Chinese Computing}}},
+  author = {Li, Haisheng and Fan, Wei and Shi, Sheng and Chou, Qiang},
+  editor = {Tang, Jie and Kan, Min-Yen and Zhao, Dongyan and Li, Sujian and Zan, Hongying},
+  year = {2019},
+  volume = {11839},
+  pages = {637--644},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-030-32236-6_58},
+  urldate = {2025-06-08},
+  isbn = {978-3-030-32235-9 978-3-030-32236-6},
+  langid = {english},
+  keywords = {Explainability,LIME,notion,Paper_Actionability}
+}
+
+@article{linardatos_ExplainableAIReview_2020,
+  title = {Explainable {{AI}}: {{A Review}} of {{Machine Learning Interpretability Methods}}},
+  shorttitle = {Explainable {{AI}}},
+  author = {Linardatos, Pantelis and Papastefanopoulos, Vasilis and Kotsiantis, Sotiris},
+  year = {2020},
+  month = dec,
+  journal = {Entropy},
+  volume = {23},
+  number = {1},
+  pages = {18},
+  issn = {1099-4300},
+  doi = {10.3390/e23010018},
+  urldate = {2025-06-09},
+  copyright = {https://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  keywords = {AI,Explainability,notion,Paper_Actionability}
+}
+
+@article{liu_TriCTIActionableCyber_2022,
+  title = {{{TriCTI}}: An Actionable Cyber Threat Intelligence Discovery System via Trigger-Enhanced Neural Network},
+  shorttitle = {{{TriCTI}}},
+  author = {Liu, Jian and Yan, Junjie and Jiang, Jun and He, Yitong and Wang, Xuren and Jiang, Zhengwei and Yang, Peian and Li, Ning},
+  year = {2022},
+  month = dec,
+  journal = {Cybersecurity},
+  volume = {5},
+  number = {1},
+  pages = {1--16},
+  publisher = {SpringerOpen},
+  issn = {2523-3246},
+  doi = {10.1186/s42400-022-00110-3},
+  urldate = {2025-08-09},
+  copyright = {2022 The Author(s)},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{lustick_GeopoliticalForecastingActionable_2022,
+  title = {Geopolitical {{Forecasting}} and {{Actionable Intelligence}}},
+  author = {Lustick, Ian S.},
+  year = {2022},
+  month = jan,
+  journal = {Survival},
+  volume = {64},
+  number = {1},
+  pages = {51--56},
+  publisher = {Informa UK Limited},
+  issn = {0039-6338, 1468-2699},
+  doi = {10.1080/00396338.2022.2032959},
+  urldate = {2025-07-24},
+  langid = {english},
+  keywords = {Actionability,Paper_Actionability,Science,Top Analysis Actionability}
+}
+
+@article{malinova_StudyContingenciesProcess_2022,
+  title = {A Study into the Contingencies of Process Improvement Methods},
+  author = {Malinova, Monika and Gross, Steven and Mendling, Jan},
+  year = {2022},
+  month = feb,
+  journal = {Information Systems},
+  volume = {104},
+  pages = {101880},
+  issn = {03064379},
+  doi = {10.1016/j.is.2021.101880},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {notion,Paper_Actionability,Process Improvement}
+}
+
+@article{markovich_CompetitiveIntelligenceEmbeddedness_2019,
+  title = {Competitive Intelligence Embeddedness: {{Drivers}} and Performance Consequences},
+  shorttitle = {Competitive Intelligence Embeddedness},
+  author = {Markovich, Amiram and Efrat, Kalanit and Raban, Daphne R. and Souchon, Anne L.},
+  year = {2019},
+  month = dec,
+  journal = {European Management Journal},
+  volume = {37},
+  number = {6},
+  pages = {708--718},
+  issn = {02632373},
+  doi = {10.1016/j.emj.2019.04.003},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{markus_RoleExplainabilityCreating_2021,
+  title = {The Role of Explainability in Creating Trustworthy Artificial Intelligence for Health Care: {{A}} Comprehensive Survey of the Terminology, Design Choices, and Evaluation Strategies},
+  shorttitle = {The Role of Explainability in Creating Trustworthy Artificial Intelligence for Health Care},
+  author = {Markus, Aniek F. and Kors, Jan A. and Rijnbeek, Peter R.},
+  year = {2021},
+  month = jan,
+  journal = {Journal of Biomedical Informatics},
+  volume = {113},
+  pages = {103655},
+  issn = {15320464},
+  doi = {10.1016/j.jbi.2020.103655},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {AI,Explainability,Healthcare,notion,Paper_Actionability}
+}
+
+@article{marquez-chamorro_PredictiveMonitoringBusiness_2017,
+  title = {Predictive {{Monitoring}} of {{Business Processes}}: {{A Survey}}},
+  shorttitle = {Predictive {{Monitoring}} of {{Business Processes}}},
+  author = {{Marquez-Chamorro}, Alfonso and Resinas, Manuel and {Ruiz-Cort{\'e}s}, Antonio},
+  year = {2017},
+  month = nov,
+  journal = {IEEE Transactions on Services Computing},
+  volume = {PP},
+  pages = {1--1},
+  doi = {10.1109/TSC.2017.2772256},
+  keywords = {A_Insights_Generation,notion,Paper_Actionability,Predictive Monitoring,Process Mining}
+}
+
+@article{mateo_FrameworkRankGenomic_2018,
+  title = {A Framework to Rank Genomic Alterations as Targets for Cancer Precision Medicine: The {{ESMO Scale}} for {{Clinical Actionability}} of Molecular {{Targets}} ({{ESCAT}})},
+  shorttitle = {A Framework to Rank Genomic Alterations as Targets for Cancer Precision Medicine},
+  author = {Mateo, J. and Chakravarty, D. and Dienstmann, R. and Jezdic, S. and {Gonzalez-Perez}, A. and {Lopez-Bigas}, N. and Ng, C. K. Y. and Bedard, P. L. and Tortora, G. and Douillard, J. -Y. and Van Allen, E. M. and Schultz, N. and Swanton, C. and Andr{\'e}, F. and Pusztai, L.},
+  year = {2018},
+  month = sep,
+  journal = {Annals of Oncology},
+  series = {Targeting {$\gamma$}-Secretase},
+  volume = {29},
+  number = {9},
+  pages = {1895--1902},
+  issn = {0923-7534},
+  doi = {10.1093/annonc/mdy263},
+  urldate = {2025-08-09},
+  keywords = {biomarkers,classification system,genomics,Healthcare,next-generation sequencing,Paper_Actionability,precision medicine,targeted therapies}
+}
+
+@article{mcmullen_LatentClassesComplex_2020,
+  title = {Latent Classes from Complex Assessments: {{What}} Do They Tell Us?},
+  shorttitle = {Latent Classes from Complex Assessments},
+  author = {McMullen, Jake and Lewis, Ryan W. and Bailey, Drew H.},
+  year = {2020},
+  month = oct,
+  journal = {Learning and Individual Differences},
+  volume = {83--84},
+  pages = {101944},
+  issn = {1041-6080},
+  doi = {10.1016/j.lindif.2020.101944},
+  urldate = {2025-08-09},
+  keywords = {Construct validity,Latent class analysis,Math achievement,Other,Paper_Actionability}
+}
+
+@inproceedings{milani_ProcessMiningGuide_2022,
+  title = {Process {{Mining}}: {{A Guide}} for {{Practitioners}}},
+  shorttitle = {Process {{Mining}}},
+  booktitle = {Research {{Challenges}} in {{Information Science}}},
+  author = {Milani, Fredrik and Lashkevich, Katsiaryna and Maggi, Fabrizio Maria and Di Francescomarino, Chiara},
+  editor = {Guizzardi, Renata and Ralyt{\'e}, Jolita and Franch, Xavier},
+  year = {2022},
+  pages = {265--282},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-031-05760-1_16},
+  isbn = {978-3-031-05760-1},
+  langid = {english},
+  keywords = {Business process management,Business value,notion,Paper_Actionability,Process Improvement,Process Mining,Systematic Literature Review,Use cases}
+}
+
+@article{milko_AgeBasedFrameworkEvaluating_2019,
+  title = {An {{Age-Based Framework}} for {{Evaluating Genome-Scale Sequencing Results}} in {{Newborn Screening}}},
+  author = {Milko, Laura V. and O'Daniel, Julianne M. and DeCristo, Daniela M. and Crowley, Stephanie B. and Foreman, Ann Katherine M. and Wallace, Kathleen E. and Mollison, Lonna F. and Strande, Natasha T. and Girnary, Zahra S. and Boshe, Lacey J. and Aylsworth, Arthur S. and {Gucsavas-Calikoglu}, Muge and Frazier, Dianne M. and Vora, Neeta L. and Roche, Myra I. and Powell, Bradford C. and Powell, Cynthia M. and Berg, Jonathan S.},
+  year = {2019},
+  month = jun,
+  journal = {The Journal of Pediatrics},
+  volume = {209},
+  pages = {68--76},
+  issn = {0022-3476},
+  doi = {10.1016/j.jpeds.2018.12.027},
+  urldate = {2025-08-09},
+  keywords = {actionability,ASQM,decision-making,disclosure,genetics,Healthcare,NC NEXUS,NGS-NBS,NSIGHT,Paper_Actionability}
+}
+
+@misc{miller_ExplanationArtificialIntelligence_2018,
+  title = {Explanation in {{Artificial Intelligence}}: {{Insights}} from the {{Social Sciences}}},
+  shorttitle = {Explanation in {{Artificial Intelligence}}},
+  author = {Miller, Tim},
+  year = {2018},
+  month = aug,
+  number = {arXiv:1706.07269},
+  eprint = {1706.07269},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.1706.07269},
+  urldate = {2025-06-08},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Artificial Intelligence,Explainability,notion,Paper_Actionability,Social Sciences}
+}
+
+@article{mishra_DesignInformationWarfare_,
+  title = {Design of {{Information}} and {{Warfare Analytics}} Using {{MapReduce}} and {{Machine Learning}}},
+  author = {Mishra, Pallaw Kumar},
+  urldate = {2025-08-09},
+  keywords = {Business_Analysis,Paper_Actionability}
+}
+
+@article{moreira_EfficacyMolecularlyTargeted_2019,
+  title = {Efficacy of Molecularly Targeted Agents given in the Randomised Trial {{SHIVA01}} According to the {{ESMO Scale}} for {{Clinical Actionability}} of Molecular {{Targets}}},
+  author = {Moreira, A. and {Masliah-Planchon}, J. and Callens, C. and Vacher, S. and Lecerf, C. and Frelaut, M. and Borcoman, E. and Torossian, N. and Ricci, F. and Hescot, S. and Sablin, M. P. and Tresca, P. and Loirat, D. and Melaabi, S. and {Trabelsi-Grati}, O. and Pierron, G. and Gentien, D. and Bernard, V. and Vincent Salomon, A. and Servant, N. and Bieche, I. and Le Tourneau, C. and Kamal, M.},
+  year = {2019},
+  month = nov,
+  journal = {European Journal of Cancer},
+  volume = {121},
+  pages = {202--209},
+  issn = {0959-8049},
+  doi = {10.1016/j.ejca.2019.09.001},
+  urldate = {2025-08-09},
+  keywords = {Actionable molecular alterations,ESMO Scale for Clinical Actionability of molecular Targets (ESCAT),Halthcare,Molecularly targeted agents,Paper_Actionability,Precision medicine,SHIVA01,Treatment algorithms}
+}
+
+@article{muletmargalef_GenomicallyMatchedTherapy_2023,
+  title = {Genomically Matched Therapy in Refractory Colorectal Cancer According to {{ESMO Scale}} for {{Clinical Actionability}} of {{Molecular Targets}}: Experience of a Comprehensive Cancer Centre Network},
+  shorttitle = {Genomically Matched Therapy in Refractory Colorectal Cancer According to {{ESMO Scale}} for {{Clinical Actionability}} of {{Molecular Targets}}},
+  author = {Mulet Margalef, N{\'u}ria and Castillo, Carmen and Mosteiro, Miguel and P{\'e}rez, Xavier and Aguilar, Susana and {Ru{\'i}z-Pace}, Fiorella and Gil, Marta and Cuadra, Carmen and Ruffinelli, Jos{\'e} Carlos and Mart{\'i}nez, Mercedes and Losa, Ferran and Soler, Gema and Teul{\'e}, {\`A}lex and Castany, Roser and Gallego, Rosa and Ru{\'i}z, Andrea and Garralda, Elena and {\'E}lez, Elena and Vivancos, Ana and Tabernero, Josep and Salazar, Ramon and Dienstmann, Rodrigo and Santos Vivas, Cristina},
+  year = {2023},
+  journal = {Molecular Oncology},
+  volume = {17},
+  number = {9},
+  pages = {1908--1916},
+  issn = {1878-0261},
+  doi = {10.1002/1878-0261.13444},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {clinical trials,colorectal cancer,ESCAT,expanded genomic profiling,Halthcare,next-generation sequencing,Paper_Actionability}
+}
+
+@article{nemati_EnhancingEnterpriseDecisions_2002,
+  title = {Enhancing {{Enterprise Decisions}} through {{Organizational Data Mining}}},
+  author = {Nemati, Hamid R. and Barko, Christopher D.},
+  year = {2002},
+  month = jun,
+  journal = {Journal of Computer Information Systems},
+  volume = {42},
+  number = {4},
+  pages = {21--28},
+  publisher = {Taylor \& Francis},
+  issn = {0887-4417},
+  doi = {10.1080/08874417.2002.11647049},
+  urldate = {2025-08-09},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{netoExplainableMatrixVisualization2021,
+  title = {Explainable {{Matrix}} - {{Visualization}} for {{Global}} and {{Local Interpretability}} of {{Random Forest Classification Ensembles}}},
+  author = {Neto, Mario Popolin and Paulovich, Fernando V.},
+  year = {2021},
+  month = feb,
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {27},
+  number = {2},
+  pages = {1427--1437},
+  issn = {1077-2626, 1941-0506, 2160-9306},
+  doi = {10.1109/TVCG.2020.3030354},
+  urldate = {2025-06-08},
+  copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
+  langid = {english},
+  keywords = {Classification,Machine Learning,notion,Paper_Actionability,Visualization}
+}
+
+@article{nicola_KnowledgeFusionDistributed_2021,
+  title = {Knowledge {{Fusion}} for {{Distributed Situational Awareness}} Driven by the {{WAx Conceptual Framework}}},
+  author = {Nicola, Antonio De},
+  year = {2021},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{niemeijer_GenericProjectDefinitions_2011,
+  title = {Generic {{Project Definitions}} for {{Improvement}} of {{Health Care Delivery}}: {{A Case-Based Approach}}},
+  shorttitle = {Generic {{Project Definitions}} for {{Improvement}} of {{Health Care Delivery}}},
+  author = {Niemeijer, Gerard C. and Does, Ronald J. M. M. and {\noopsort{mast}}{de Mast}, Jeroen and Trip, Albert and {\noopsort{heuvel}}van den Heuvel, Jaap},
+  year = {April/June 2011},
+  journal = {Quality Management in Healthcare},
+  volume = {20},
+  number = {2},
+  pages = {152},
+  doi = {10.1097/QMH.0b013e318213e75c},
+  urldate = {2025-08-09},
+  langid = {american},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@inproceedings{oelen_SmartReviewsHumanMachineActionable_2021,
+  title = {{{SmartReviews}}: {{Towards Human-}} and {{Machine-Actionable Representation}} of {{Review Articles}}},
+  shorttitle = {{{SmartReviews}}},
+  booktitle = {Towards {{Open}} and {{Trustworthy Digital Societies}}},
+  author = {Oelen, Allard and Stocker, Markus and Auer, S{\"o}ren},
+  year = {2021},
+  pages = {105--114},
+  publisher = {Springer, Cham},
+  issn = {1611-3349},
+  doi = {10.1007/978-3-030-91669-5_9},
+  urldate = {2025-08-09},
+  isbn = {978-3-030-91669-5},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{ohno-machadoGuideLineInterchangeFormat1998,
+  title = {The {{GuideLine Interchange Format}}: {{A Model}} for {{Representing Guidelines}}},
+  shorttitle = {The {{GuideLine Interchange Format}}},
+  author = {{Ohno-Machado}, L. and Gennari, J. H. and Murphy, S. N. and Jain, N. L. and Tu, S. W. and Oliver, D. E. and {Pattison-Gordon}, E. and Greenes, R. A. and Shortliffe, E. H. and Barnett, G. O.},
+  year = {1998},
+  month = jul,
+  journal = {Journal of the American Medical Informatics Association},
+  volume = {5},
+  number = {4},
+  pages = {357--372},
+  issn = {1067-5027, 1527-974X},
+  doi = {10.1136/jamia.1998.0050357},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Healthcare,notion,Paper_Actionability}
+}
+
+@article{owens_HowCliniciansConceptualize_2023,
+  title = {How {{Clinicians Conceptualize}} ``{{Actionability}}'' in {{Genomic Screening}}},
+  author = {Owens, Kellie and Sankar, Pamela and Asfaha, Dina M.},
+  year = {2023},
+  month = feb,
+  journal = {Journal of Personalized Medicine},
+  volume = {13},
+  number = {2},
+  pages = {290},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+  issn = {2075-4426},
+  doi = {10.3390/jpm13020290},
+  urldate = {2025-08-09},
+  copyright = {http://creativecommons.org/licenses/by/3.0/},
+  langid = {english},
+  keywords = {actionability,ethics,genomic screening,Healthcare,Paper_Actionability}
+}
+
+@article{pak_ImplementingEvidencebasedAssertions_2024a,
+  title = {Implementing Evidence-Based Assertions of Clinical Actionability in the Context of Secondary Findings: {{Updates}} from the {{ClinGen Actionability Working Group}}},
+  shorttitle = {Implementing Evidence-Based Assertions of Clinical Actionability in the Context of Secondary Findings},
+  author = {Pak, Christine M. and Gilmore, Marian J. and Bulkley, Joanna E. and Chakraborty, Pranesh and {Dagan-Rosenfeld}, Orit and Foreman, Ann Katherine M. and Gollob, Michael H. and Jenkins, Charisma L. and Katz, Alexander E. and Lee, Kristy and Meeks, Naomi and O'Daniel, Julianne M. and Posey, Jennifer E. and Rego, Shannon M. and Shah, Neethu and Steiner, Robert D. and Stergachis, Andrew B. and Subramanian, Sai Lakshmi and Trotter, Tracy and Wallace, Kathleen and Williams, Marc S. and Goddard, Katrina A. B. and Buchanan, Adam H. and Manickam, Kandamurugu and Powell, Bradford and Ezzell Hunter, Jessica},
+  year = {2024},
+  month = aug,
+  journal = {Genetics in Medicine},
+  volume = {26},
+  number = {8},
+  pages = {101164},
+  issn = {1098-3600},
+  doi = {10.1016/j.gim.2024.101164},
+  urldate = {2025-08-09},
+  keywords = {Actionability assertions,Assertions rubric,Clinical actionability,Genome sequencing,Healthcare,Paper_Actionability,Secondary findings}
+}
+
+@article{park_ActionorientedProcessMining_2022,
+  title = {Action-Oriented Process Mining: Bridging the Gap between Insights and Actions},
+  shorttitle = {Action-Oriented Process Mining},
+  author = {Park, Gyunam and Van Der Aalst, Wil M. P.},
+  year = {2022},
+  month = jul,
+  journal = {Progress in Artificial Intelligence},
+  issn = {2192-6352, 2192-6360},
+  doi = {10.1007/s13748-022-00281-7},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,notion,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@incollection{park_GeneralFrameworkActionOriented_2020,
+  title = {A {{General Framework}} for {{Action-Oriented Process Mining}}},
+  booktitle = {Business {{Process Management Workshops}}},
+  author = {Park, Gyunam and Van Der Aalst, Wil M. P.},
+  editor = {Del R{\'i}o Ortega, Adela and Leopold, Henrik and Santoro, Fl{\'a}via Maria},
+  year = {2020},
+  volume = {397},
+  pages = {206--218},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-030-66498-5_16},
+  urldate = {2025-06-08},
+  isbn = {978-3-030-66497-8 978-3-030-66498-5},
+  langid = {english},
+  keywords = {Actionability,notion,PA_Framework,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@misc{pawelczyk_CounterfactualExplanationsPredictive_2020,
+  title = {On {{Counterfactual Explanations}} under {{Predictive Multiplicity}}},
+  author = {Pawelczyk, Martin and Broelemann, Klaus and Kasneci, Gjergji},
+  year = {2020},
+  month = jun,
+  number = {arXiv:2006.13132},
+  eprint = {2006.13132},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2006.13132},
+  urldate = {2025-06-08},
+  archiveprefix = {arXiv},
+  keywords = {Causality,Computer Science - Computers and Society,Computer Science - Machine Learning,Explainability,notion,Paper_Actionability,Statistics - Machine Learning}
+}
+
+@misc{pawelczyk_DecomposingCounterfactualExplanations_2022,
+  title = {Decomposing {{Counterfactual Explanations}} for {{Consequential Decision Making}}},
+  author = {Pawelczyk, Martin and Tiyavorabun, Lea and Kasneci, Gjergji},
+  year = {2022},
+  month = nov,
+  number = {arXiv:2211.02151},
+  eprint = {2211.02151},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2211.02151},
+  urldate = {2025-06-09},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Causality,Computer Science - Artificial Intelligence,Computer Science - Computers and Society,Computer Science - Machine Learning,notion,Paper_Actionability}
+}
+
+@misc{PDFGuideLineImplementability,
+  title = {({{PDF}}) {{The GuideLine Implementability Appraisal}} ({{GLIA}}): {{Development}} of an Instrument to Identify Obstacles to Guideline Implementation},
+  urldate = {2025-06-08},
+  howpublished = {https://www.researchgate.net/publication/7696372\_The\_GuideLine\_Implementability\_Appraisal\_GLIA\_Development\_of\_an\_instrument\_to\_identify\_obstacles\_to\_guideline\_implementation?\_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNlYXJjaCIsInBhZ2UiOiJzZWFyY2giLCJwb3NpdGlvbiI6InBhZ2VIZWFkZXIifX0},
+  keywords = {Healthcare,notion,Paper_Actionability}
+}
+
+@misc{PDFKnowledgeGeneration,
+  title = {({{PDF}}) {{Knowledge Generation Model}} for {{Visual Analytics}}},
+  urldate = {2025-06-08},
+  howpublished = {https://www.researchgate.net/publication/269332791\_Knowledge\_Generation\_Model\_for\_Visual\_Analytics?\_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNlYXJjaCIsInBhZ2UiOiJzZWFyY2giLCJwb3NpdGlvbiI6InBhZ2VIZWFkZXIifX0},
+  keywords = {Knowledge,notion,Paper_Actionability,Visualization}
+}
+
+@book{pearl_Causality_2009,
+  title = {Causality},
+  author = {Pearl, Judea},
+  year = {2009},
+  edition = {2},
+  publisher = {Cambridge University Press},
+  address = {Cambridge},
+  doi = {10.1017/CBO9780511803161},
+  urldate = {2025-06-09},
+  isbn = {978-0-521-89560-6},
+  keywords = {Causality,Explainability,notion,Paper_Actionability}
+}
+
+@article{pickles_DecisionMakingHealthrelated_2024,
+  title = {Decision Making for Health-Related Research Outcomes That Alter Diagnosis: {{A}} Model from Paediatric Brain Tumours},
+  shorttitle = {Decision Making for Health-Related Research Outcomes That Alter Diagnosis},
+  author = {Pickles, Jessica C. and Aquilina, Kristian and Chalker, Jane and Dahl, Christine and Devadass, Abel and Mankad, Kshitij and Merve, Ashirwad and Ahmed, Munaza and Nicoll, James A. R. and Bloom, Tabitha and Hilton, David A. and Sebire, Neil J. and Hargrave, Darren and Jacques, Thomas S.},
+  year = {2024},
+  journal = {Neuropathology and Applied Neurobiology},
+  volume = {50},
+  number = {4},
+  pages = {e12994},
+  issn = {1365-2990},
+  doi = {10.1111/nan.12994},
+  urldate = {2025-08-09},
+  langid = {english},
+  keywords = {archival studies,health-related findings,Healthcare,human tissue,molecular pathology,paediatric brain tumours,Paper_Actionability}
+}
+
+@article{potter_NavigatingUncertaintyChallenges_2025,
+  title = {Navigating {{Uncertainty}}: {{Challenges}} in {{Visualizing Ensemble Data}} and {{Surrogate Models}} for {{Decision Systems}}},
+  shorttitle = {Navigating {{Uncertainty}}},
+  author = {Potter, Kristi and Molnar, Sam and {Laurence-Chasen}, J.D. and Duan, Yuhan and Bessac, Julie and Shen, Han-Wei},
+  year = {2025},
+  month = may,
+  journal = {IEEE Computer Graphics and Applications},
+  volume = {45},
+  number = {3},
+  pages = {104--112},
+  issn = {1558-1756},
+  doi = {10.1109/MCG.2025.3549665},
+  urldate = {2025-08-09},
+  keywords = {Adaptation models,Computational modeling,Context modeling,Data visualization,Decision making,Ensemble learning,High dimensional data,Navigation,Paper_Actionability,Simulation,System performance,Uncertainty,Usability,Visual_Analytics}
+}
+
+@inproceedings{pourbafrani_DataDrivenSimulationProcess_2023,
+  title = {Data-{{Driven Simulation In Process Mining}}: {{Introducing A Reference Model}}},
+  shorttitle = {Data-{{Driven Simulation In Process Mining}}},
+  booktitle = {{{ECMS}} 2023 {{Proceedings}} Edited by {{Enrico Vicario}}, {{Romeo Bandinelli}}, {{Virginia Fani}}, {{Michele Mastroianni}}},
+  author = {Pourbafrani, Mahsa and Van Der Aalst, Wil M.P.},
+  year = {2023},
+  month = jun,
+  pages = {411--420},
+  publisher = {ECMS},
+  doi = {10.7148/2023-0411},
+  urldate = {2025-06-09},
+  isbn = {978-3-937436-80-7},
+  langid = {english},
+  keywords = {notion,Paper_Actionability,Process Mining}
+}
+
+@inproceedings{poyiadzi_FACEFeasibleActionable_2020,
+  title = {{{FACE}}: {{Feasible}} and {{Actionable Counterfactual Explanations}}},
+  shorttitle = {{{FACE}}},
+  booktitle = {Proceedings of the {{AAAI}}/{{ACM Conference}} on {{AI}}, {{Ethics}}, and {{Society}}},
+  author = {Poyiadzi, Rafael and Sokol, Kacper and {Santos-Rodriguez}, Raul and Bie, Tijl De and Flach, Peter},
+  year = {2020},
+  month = feb,
+  eprint = {1909.09369},
+  primaryclass = {cs},
+  pages = {344--350},
+  doi = {10.1145/3375627.3375850},
+  urldate = {2025-06-08},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Actionability,Causality,Computer Science - Machine Learning,Explainability,notion,Paper_Actionability,Statistics - Machine Learning}
+}
+
+@article{pufahlBPMNHealthcareChallenges2022,
+  title = {{{BPMN}} in Healthcare: {{Challenges}} and Best Practices},
+  shorttitle = {{{BPMN}} in Healthcare},
+  author = {Pufahl, Luise and Zerbato, Francesca and Weber, Barbara and Weber, Ingo},
+  year = {2022},
+  month = jul,
+  journal = {Information Systems},
+  volume = {107},
+  pages = {102013},
+  issn = {03064379},
+  doi = {10.1016/j.is.2022.102013},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Challenges,Healthcare,notion,Paper_Actionability}
+}
+
+@inproceedings{pushpalatha_ExtensibleWebUsage_2017,
+  title = {Towards an Extensible Web Usage Mining Framework for Actionable Knowledge},
+  booktitle = {2017 {{International Conference}} on {{Inventive Communication}} and {{Computational Technologies}} ({{ICICCT}})},
+  author = {Pushpalatha, N. and Reddy, S. Sai Satyanarayana},
+  year = {2017},
+  month = mar,
+  pages = {35--40},
+  doi = {10.1109/ICICCT.2017.7975232},
+  urldate = {2025-08-09},
+  keywords = {Algorithm design and analysis,business intelligence,Business intelligence,Business_Analysis,fuzzy clustering,Fuzzy logic,Knowledge discovery,Market research,Paper_Actionability,Web mining,web usage mining}
+}
+
+@incollection{ramezani_WhereDidMisbehave_2012,
+  title = {Where {{Did I Misbehave}}? {{Diagnostic Information}} in {{Compliance Checking}}},
+  shorttitle = {Where {{Did I Misbehave}}?},
+  booktitle = {Business {{Process Management}}},
+  author = {Ramezani, Elham and Fahland, Dirk and Van Der Aalst, Wil M. P.},
+  editor = {Hutchison, David and Kanade, Takeo and Kittler, Josef and Kleinberg, Jon M. and Mattern, Friedemann and Mitchell, John C. and Naor, Moni and Nierstrasz, Oscar and Pandu Rangan, C. and Steffen, Bernhard and Sudan, Madhu and Terzopoulos, Demetri and Tygar, Doug and Vardi, Moshe Y. and Weikum, Gerhard and Barros, Alistair and Gal, Avigdor and Kindler, Ekkart},
+  year = {2012},
+  volume = {7481},
+  pages = {262--278},
+  publisher = {Springer Berlin Heidelberg},
+  address = {Berlin, Heidelberg},
+  doi = {10.1007/978-3-642-32885-5_21},
+  urldate = {2025-06-08},
+  isbn = {978-3-642-32884-8 978-3-642-32885-5},
+  langid = {english},
+  keywords = {A_Insights_Generation,Compliance Check,notion,Paper_Actionability,Process Mining}
+}
+
+@article{ramires_ProcessMiningLean_2022,
+  title = {Process Mining and Lean Six Sigma: A Novel Approach to Analyze the Supply Chain Quality of a Hospital},
+  shorttitle = {Process Mining and Lean Six Sigma},
+  author = {Ramires, Francisco and Sampaio, Paulo},
+  year = {2022},
+  month = may,
+  journal = {International Journal of Lean Six Sigma},
+  volume = {13},
+  number = {3},
+  pages = {594--621},
+  issn = {2040-4166, 2040-4166},
+  doi = {10.1108/IJLSS-12-2020-0226},
+  urldate = {2025-06-08},
+  copyright = {https://www.emerald.com/insight/site-policies},
+  langid = {english},
+  keywords = {Healthcare,notion,PA_Motivation,Paper_Actionability,Process Mining,Six Sigma,Use Cases}
+}
+
+@article{rasanen_BridgingKnowledgeactionGap_2024,
+  title = {Bridging the Knowledge-Action Gap: {{A}} Framework for Co-Producing Actionable Knowledge},
+  shorttitle = {Bridging the Knowledge-Action Gap},
+  author = {R{\"a}s{\"a}nen, Aleksi and Sarkki, Simo and Haanp{\"a}{\"a}, Olli and Isolahti, Maria and Kekkonen, Hanna and Kikuchi, Karoliina and Koukkari, Ville and K{\"a}rkk{\"a}inen, Katri and Miettinen, Janne and M{\"a}ntymaa, Erkki and Nieminen, Mika and Rahkila, Riina and Ruohonen, Anna and Sarkkola, Sakari and V{\"a}lim{\"a}ki, Matti and Yliperttula, Kaisa and Heikkinen, Hannu I.},
+  year = {2024},
+  month = dec,
+  journal = {Environmental Science \& Policy},
+  volume = {162},
+  pages = {103929},
+  issn = {1462-9011},
+  doi = {10.1016/j.envsci.2024.103929},
+  urldate = {2025-08-09},
+  keywords = {Actionable knowledge,Catchment governance,Knowledge co-production,Other,Paper_Actionability,River basin management,Transdisciplinary research,Usable knowledge}
+}
+
+@misc{rasouli_CARECoherentActionable_2021,
+  title = {{{CARE}}: {{Coherent Actionable Recourse}} Based on {{Sound Counterfactual Explanations}}},
+  shorttitle = {{{CARE}}},
+  author = {Rasouli, Peyman and Yu, Ingrid Chieh},
+  year = {2021},
+  month = aug,
+  number = {arXiv:2108.08197},
+  eprint = {2108.08197},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2108.08197},
+  urldate = {2025-08-09},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Paper_Actionability,XAI}
+}
+
+@misc{RD_Agenda_VisualAnalytics,
+  title = {{{RD}}\_{{Agenda}}\_{{VisualAnalytics}}},
+  keywords = {notion,Paper_Actionability,Visualization}
+}
+
+@article{richer_SecondaryFindingsNextgeneration_2019,
+  title = {Secondary~Findings from Next-Generation Sequencing: What Does Actionable in Childhood Really Mean?},
+  shorttitle = {Secondary~Findings from Next-Generation Sequencing},
+  author = {Richer, Julie and Laberge, Anne-Marie},
+  year = {2019},
+  month = jan,
+  journal = {Genetics in Medicine},
+  volume = {21},
+  number = {1},
+  pages = {124--132},
+  issn = {1098-3600},
+  doi = {10.1038/s41436-018-0034-4},
+  urldate = {2025-08-09},
+  keywords = {ACMG gene list,actionability,children and adolescents,Healthcare,opportunistic screening,Paper_Actionability,secondary findings}
+}
+
+@article{rivadeneira_EvidentialReasoningApproach_2024,
+  title = {Evidential {{Reasoning Approach}} for {{Predicting Popularity}} of {{Instagram Posts}}},
+  author = {Rivadeneira, L. and Loor, I.},
+  year = {2024},
+  journal = {IEEE Access},
+  volume = {12},
+  pages = {182603--182617},
+  issn = {2169-3536},
+  doi = {10.1109/ACCESS.2024.3510637},
+  urldate = {2025-08-09},
+  keywords = {Accuracy,Analytical models,Cognition,Data models,Evidential reasoning,Instagram,machine learning,Machine learning,Multimedia communication,Other,Paper_Actionability,predictive models,Predictive models,social media analytics,Social networking (online),Visualization,Web sites}
+}
+
+@article{rogushina_OntologicalApproachSmart_,
+  title = {Ontological {{Approach}} in the {{Smart Data Paradigm}} as a {{Basis}} for {{Open Data Semantic Markup}}},
+  author = {Rogushina, Julia},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{rosenfeld_ClinicalPracticeGuidelines_2006,
+  title = {Clinical {{Practice Guidelines}}: {{A Manual}} for {{Developing Evidence-Based Guidelines}} to {{Facilitate Performance Measurement}} and {{Quality Improvement}}},
+  shorttitle = {Clinical {{Practice Guidelines}}},
+  author = {Rosenfeld, Richard M. and Shiffman, Richard N.},
+  year = {2006},
+  journal = {Otolaryngology--Head and Neck Surgery},
+  volume = {135},
+  number = {S4},
+  pages = {S1-S28},
+  issn = {1097-6817},
+  doi = {10.1016/j.otohns.2006.06.1277},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,Healthcare,notion,Paper_Actionability}
+}
+
+@article{schuster_DefiningVisualizingProcess_2024,
+  title = {Defining and Visualizing Process Execution Variants from Partially Ordered Event Data},
+  author = {Schuster, Daniel and Zerbato, Francesca and {\noopsort{zelst}}{van Zelst}, Sebastiaan J. and {\noopsort{aalst}}{van der Aalst}, Wil M. P.},
+  year = {2024},
+  month = feb,
+  journal = {Information Sciences},
+  volume = {657},
+  pages = {119958},
+  issn = {0020-0255},
+  doi = {10.1016/j.ins.2023.119958},
+  urldate = {2025-06-09},
+  keywords = {A_Insights_Generation,Data visualization,Event data,notion,Paper_Actionability,Partial order,Process Mining,Visual analytics}
+}
+
+@article{serbanatiHealthDigitalState2020,
+  title = {Health Digital State and {{Smart EHR}} Systems},
+  author = {Serbanati, Luca Dan},
+  year = {2020},
+  journal = {Informatics in Medicine Unlocked},
+  volume = {21},
+  pages = {100494},
+  issn = {23529148},
+  doi = {10.1016/j.imu.2020.100494},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Healthcare,notion,Paper_Actionability}
+}
+
+@inproceedings{sergis_EnhancingStudentDigital_2017,
+  title = {Enhancing {{Student Digital Skills}}: {{Adopting}} an {{Ecosystemic School Analytics Approach}}},
+  shorttitle = {Enhancing {{Student Digital Skills}}},
+  booktitle = {2017 {{IEEE}} 17th {{International Conference}} on {{Advanced Learning Technologies}} ({{ICALT}})},
+  author = {Sergis, Stylianos and Sampson, Demetrios G. and Giannakos, Michail},
+  year = {2017},
+  month = jul,
+  pages = {21--25},
+  issn = {2161-377X},
+  doi = {10.1109/ICALT.2017.87},
+  urldate = {2025-08-09},
+  keywords = {Analytical models,Computer science,Data-driven Decision Making,Decision making,Digital Skills,Ecosystems,Education,Educational Data,Focusing,fsQCA,Paper_Actionability,Reliability,School Analytics,School Leadership}
+}
+
+@article{sergis_SupportingSchoolLeadership_2018,
+  title = {Supporting School Leadership Decision Making with Holistic School Analytics: {{Bridging}} the Qualitative-Quantitative Divide Using Fuzzy-Set Qualitative Comparative Analysis},
+  shorttitle = {Supporting School Leadership Decision Making with Holistic School Analytics},
+  author = {Sergis, Stylianos and Sampson, Demetrios G. and Giannakos, Michail N.},
+  year = {2018},
+  month = dec,
+  journal = {Computers in Human Behavior},
+  volume = {89},
+  pages = {355--366},
+  issn = {0747-5632},
+  doi = {10.1016/j.chb.2018.06.016},
+  urldate = {2025-08-09},
+  keywords = {Data-driven educational decision making,Education,Educational data analytics,Fuzzy-set qualitative comparative analysis,Paper_Actionability,School analytics,School leadership}
+}
+
+@article{shoemaker_DevelopmentPatientEducation_2014,
+  title = {Development of the {{Patient Education Materials Assessment Tool}} ({{PEMAT}}): {{A}} New Measure of Understandability and Actionability for Print and Audiovisual Patient Information},
+  shorttitle = {Development of the {{Patient Education Materials Assessment Tool}} ({{PEMAT}})},
+  author = {Shoemaker, Sarah J. and Wolf, Michael S. and Brach, Cindy},
+  year = {2014},
+  month = sep,
+  journal = {Patient Education and Counseling},
+  series = {Communication in {{Healthcare}}: {{Lessons}} from {{Diversity}}},
+  volume = {96},
+  number = {3},
+  pages = {395--403},
+  issn = {0738-3991},
+  doi = {10.1016/j.pec.2014.05.027},
+  urldate = {2025-08-09},
+  keywords = {Assessment,Audiovisual materials,Clear communication,Educational materials,Health literacy,Healthcare,Instrument development,Measurement,Paper_Actionability,Patient education,Plain language,Readability}
+}
+
+@inproceedings{silva_ExplainabilityActionableInformation_2024,
+  title = {Explainability: {{Actionable Information Extraction}}},
+  shorttitle = {Explainability},
+  booktitle = {International {{Conference}} on {{Biomedical}} and {{Health Informatics}} 2022},
+  author = {Silva, Catarina and Henriques, Jorge and Ribeiro, Bernardete},
+  year = {2024},
+  pages = {104--113},
+  publisher = {Springer, Cham},
+  issn = {1433-9277},
+  doi = {10.1007/978-3-031-59216-4_11},
+  urldate = {2025-07-24},
+  isbn = {978-3-031-59216-4},
+  langid = {english},
+  keywords = {Actionability,Paper_Actionability,Top Analysis Actionability}
+}
+
+@misc{singh_ActionabilityAssessmentTool_2024,
+  title = {An {{Actionability Assessment Tool}} for {{Explainable AI}}},
+  author = {Singh, Ronal and Miller, Tim and Sonenberg, Liz and Velloso, Eduardo and Vetere, Frank and Howe, Piers and Dourish, Paul},
+  year = {2024},
+  month = jun,
+  number = {arXiv:2407.09516},
+  eprint = {2407.09516},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2407.09516},
+  urldate = {2025-06-09},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Actionability,Computer Science - Human-Computer Interaction,Explainability,notion,Paper_Actionability,XAI}
+}
+
+@article{singh_DirectiveExplanationsActionable_2023,
+  title = {Directive {{Explanations}} for {{Actionable Explainability}} in {{Machine Learning Applications}}},
+  author = {Singh, Ronal and Miller, Tim and Lyons, Henrietta and Sonenberg, Liz and Velloso, Eduardo and Vetere, Frank and Howe, Piers and Dourish, Paul},
+  year = {2023},
+  month = dec,
+  journal = {ACM Transactions on Interactive Intelligent Systems},
+  volume = {13},
+  number = {4},
+  pages = {1--26},
+  issn = {2160-6455, 2160-6463},
+  doi = {10.1145/3579363},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,Explainability,notion,Paper_Actionability}
+}
+
+@book{singh_SituationRecognitionUsing_2016,
+  title = {Situation {{Recognition Using EventShop}}},
+  author = {Singh, Vivek K. and Jain, Ramesh},
+  year = {2016},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-319-30537-0},
+  urldate = {2025-08-09},
+  copyright = {http://www.springer.com/tdm},
+  isbn = {978-3-319-30535-6 978-3-319-30537-0},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{sirocchi_MedicalinformedMachineLearning_2024,
+  title = {Medical-Informed Machine Learning: Integrating Prior Knowledge into Medical Decision Systems},
+  shorttitle = {Medical-Informed Machine Learning},
+  author = {Sirocchi, Christel and Bogliolo, Alessandro and Montagna, Sara},
+  year = {2024},
+  month = jun,
+  journal = {BMC Medical Informatics and Decision Making},
+  volume = {24},
+  number = {S4},
+  pages = {186},
+  issn = {1472-6947},
+  doi = {10.1186/s12911-024-02582-4},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Decision Support System,Healthcare,Machine Learning,notion,Paper_Actionability}
+}
+
+@article{smit_FutureArtificialIntelligence_2023,
+  title = {The Future of Artificial Intelligence in Intensive Care: Moving from Predictive to Actionable {{AI}}},
+  shorttitle = {The Future of Artificial Intelligence in Intensive Care},
+  author = {Smit, Jim M. and Krijthe, Jesse H. and {\noopsort{bommel}}{van Bommel}, Jasper},
+  year = {2023},
+  month = sep,
+  journal = {Intensive Care Medicine},
+  volume = {49},
+  number = {9},
+  pages = {1114--1116},
+  publisher = {Springer Berlin Heidelberg},
+  issn = {1432-1238},
+  doi = {10.1007/s00134-023-07102-y},
+  urldate = {2025-07-24},
+  copyright = {2023 The Author(s)},
+  langid = {english},
+  keywords = {Healthcare,Paper_Actionability,Top Analysis Actionability}
+}
+
+@article{sokol_NavigatingExplanatoryMultiverse_2025,
+  title = {Navigating Explanatory Multiverse through Counterfactual Path Geometry},
+  author = {Sokol, Kacper and Small, Edward and Xuan, Yueqing},
+  year = {2025},
+  month = jun,
+  journal = {Machine Learning},
+  volume = {114},
+  number = {6},
+  pages = {144},
+  issn = {0885-6125, 1573-0565},
+  doi = {10.1007/s10994-025-06769-2},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Causality,Explainability,notion,Paper_Actionability}
+}
+
+@inproceedings{sorokina_PEM4PPMCognitivePerspective_2023,
+  title = {{{PEM4PPM}}: {{A Cognitive Perspective}} on the {{Process}} of {{Process Mining}}},
+  shorttitle = {{{PEM4PPM}}},
+  booktitle = {Business {{Process Management}}},
+  author = {Sorokina, Elizaveta and Soffer, Pnina and Hadar, Irit and Leron, Uri and Zerbato, Francesca and Weber, Barbara},
+  editor = {Di Francescomarino, Chiara and Burattin, Andrea and Janiesch, Christian and Sadiq, Shazia},
+  year = {2023},
+  pages = {465--481},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-41620-0_27},
+  isbn = {978-3-031-41620-0},
+  langid = {english},
+  keywords = {A_Insights_Generation,Analysis Strategies,Mixed Methods,notion,Paper_Actionability,Prediction Error Minimization,Predictive Monitoring,Predictive Processing,Process Mining},
+  annotation = {Interesting view on cognitive perspective}
+}
+
+@inproceedings{steindani_LossInterestDenial_2024,
+  title = {From {{Loss}} of~{{Interest}} to~{{Denial}}: {{A Study}} on~the~{{Terminators}} of~{{Process Mining Initiatives}}},
+  shorttitle = {From {{Loss}} of~{{Interest}} to~{{Denial}}},
+  booktitle = {Advanced {{Information Systems Engineering}}},
+  author = {Stein Dani, Vinicius and Leopold, Henrik and {\noopsort{werf}}{van der Werf}, Jan Martijn E. M. and Beerepoot, Iris and Reijers, Hajo A.},
+  editor = {Guizzardi, Giancarlo and Santoro, Flavia and Mouratidis, Haralambos and Soffer, Pnina},
+  year = {2024},
+  pages = {371--386},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-61057-8_22},
+  isbn = {978-3-031-61057-8},
+  langid = {english},
+  keywords = {Challenges,Insights to action,notion,Obstacles,PA_Motivation,Paper_Actionability,Process improvement,Process Mining}
+}
+
+@incollection{steindani_ProcessMiningInsights_2024,
+  title = {From {{Process Mining Insights}} to {{Process Improvement}}: {{All Talk}} and {{No Action}}?},
+  shorttitle = {From {{Process Mining Insights}} to {{Process Improvement}}},
+  booktitle = {Cooperative {{Information Systems}}},
+  author = {Stein Dani, Vinicius and Leopold, Henrik and Van Der Werf, Jan Martijn E. M. and Beerepoot, Iris and Reijers, Hajo A.},
+  editor = {Sellami, Mohamed and Vidal, Maria-Esther and Van Dongen, Boudewijn and Gaaloul, Walid and Panetto, Herv{\'e}},
+  year = {2024},
+  volume = {14353},
+  pages = {275--292},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-46846-9_15},
+  urldate = {2025-06-08},
+  isbn = {978-3-031-46845-2 978-3-031-46846-9},
+  langid = {english},
+  keywords = {Actionability,notion,PA_Insights_Generation,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@incollection{steindani_UnderstandingRoleHuman_2022,
+  title = {Towards {{Understanding}} the {{Role}} of the {{Human}} in {{Event Log Extraction}}},
+  booktitle = {Business {{Process Management Workshops}}},
+  author = {Stein Dani, Vinicius and Leopold, Henrik and Van Der Werf, Jan Martijn E. M. and Lu, Xixi and Beerepoot, Iris and Koorn, Jelmer J. and Reijers, Hajo A.},
+  editor = {Marrella, Andrea and Weber, Barbara},
+  year = {2022},
+  volume = {436},
+  pages = {86--98},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-030-94343-1_7},
+  urldate = {2025-06-08},
+  isbn = {978-3-030-94342-4 978-3-030-94343-1},
+  langid = {english},
+  keywords = {Actionability,notion,Paper_Actionability,Process Mining}
+}
+
+@inproceedings{su_StreamReasoningInternet_2016,
+  title = {Stream {{Reasoning}} for the {{Internet}} of {{Things}}: {{Challenges}} and {{Gap Analysis}}},
+  shorttitle = {Stream {{Reasoning}} for the {{Internet}} of {{Things}}},
+  booktitle = {Proceedings of the 6th {{International Conference}} on {{Web Intelligence}}, {{Mining}} and {{Semantics}}},
+  author = {Su, Xiang and Gilman, Ekaterina and Wetz, Peter and Riekki, Jukka and Zuo, Yifei and Lepp{\"a}nen, Teemu},
+  year = {2016},
+  month = jun,
+  series = {{{WIMS}} '16},
+  pages = {1--10},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/2912845.2912853},
+  urldate = {2025-08-09},
+  isbn = {978-1-4503-4056-4},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{subedi_LookTravelMotivation_2025,
+  title = {A Look into Travel Motivation Post-Crisis: {{Insights}} from Means-End Chain Theory},
+  shorttitle = {A Look into Travel Motivation Post-Crisis},
+  author = {Subedi, Swechchha and Odosashvili, Lali and Kubickova, Marketa},
+  year = {2025},
+  month = jun,
+  journal = {Journal of Hospitality and Tourism Management},
+  volume = {63},
+  pages = {421--433},
+  issn = {1447-6770},
+  doi = {10.1016/j.jhtm.2025.05.013},
+  urldate = {2025-08-09},
+  keywords = {Laddering,Means-end chain (MEC) theory,Other,Paper_Actionability,Post-crisis,Travel motivation}
+}
+
+@incollection{sun_WhatActionableScience_2023,
+  title = {What {{Is}} ``{{Actionable}}'' {{Science}} for {{Climate}} and {{Environment}}?},
+  booktitle = {Actionable {{Science}} of {{Global Environment Change}}},
+  author = {Sun, Ziheng},
+  year = {2023},
+  pages = {1--29},
+  publisher = {Springer, Cham},
+  doi = {10.1007/978-3-031-41758-0_1},
+  urldate = {2025-08-09},
+  isbn = {978-3-031-41758-0},
+  langid = {english},
+  keywords = {Other,Paper_Actionability}
+}
+
+@article{susnjak_LearningAnalyticsDashboard_2022,
+  title = {Learning Analytics Dashboard: A Tool for Providing Actionable Insights to Learners},
+  shorttitle = {Learning Analytics Dashboard},
+  author = {Susnjak, Teo and Ramaswami, Gomathy Suganya and Mathrani, Anuradha},
+  year = {2022},
+  month = dec,
+  journal = {International Journal of Educational Technology in Higher Education},
+  volume = {19},
+  number = {1},
+  pages = {1--23},
+  publisher = {SpringerOpen},
+  issn = {2365-9440},
+  doi = {10.1186/s41239-021-00313-7},
+  urldate = {2025-08-09},
+  copyright = {2022 The Author(s)},
+  langid = {english},
+  keywords = {Education,Paper_Actionability}
+}
+
+@inproceedings{tabassum_ActionableInsightsUrban_2021,
+  title = {Actionable {{Insights}} in {{Urban Multivariate Time-series}}},
+  booktitle = {Proceedings of the 30th {{ACM International Conference}} on {{Information}} \& {{Knowledge Management}}},
+  author = {Tabassum, Anika and Chinthavali, Supriya and Tansakul, Varisara and Prakash, B. Aditya},
+  year = {2021},
+  month = oct,
+  pages = {1774--1783},
+  publisher = {ACM},
+  address = {Virtual Event Queensland Australia},
+  doi = {10.1145/3459637.3482410},
+  urldate = {2025-07-24},
+  copyright = {https://www.acm.org/publications/policies/copyright\_policy\#Background},
+  langid = {english},
+  keywords = {Actionability,Business,Paper_Actionability,Top Analysis Actionability}
+}
+
+@misc{tan_DefiningConceptualizingActionable_2016,
+  title = {Defining and {{Conceptualizing Actionable Insight}}: {{A Conceptual Framework}} for {{Decision-centric Analytics}}},
+  shorttitle = {Defining and {{Conceptualizing Actionable Insight}}},
+  author = {Tan, Shiang-Yen and Chan, Taizan},
+  year = {2016},
+  month = jun,
+  number = {arXiv:1606.03510},
+  eprint = {1606.03510},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.1606.03510},
+  urldate = {2025-08-09},
+  archiveprefix = {arXiv},
+  keywords = {Business_Analysis,Computer Science - Computers and Society,Paper_Actionability}
+}
+
+@book{tangNaturalLanguageProcessing2019,
+  title = {Natural {{Language Processing}} and {{Chinese Computing}}: 8th {{CCF International Conference}}, {{NLPCC}} 2019, {{Dunhuang}}, {{China}}, {{October}} 9--14, 2019, {{Proceedings}}, {{Part II}}},
+  shorttitle = {Natural {{Language Processing}} and {{Chinese Computing}}},
+  editor = {Tang, Jie and Kan, Min-Yen and Zhao, Dongyan and Li, Sujian and Zan, Hongying},
+  year = {2019},
+  series = {Lecture {{Notes}} in {{Computer Science}}},
+  volume = {11839},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-030-32236-6},
+  urldate = {2025-06-08},
+  copyright = {http://www.springer.com/tdm},
+  isbn = {978-3-030-32235-9 978-3-030-32236-6},
+  langid = {english},
+  keywords = {Explainability,NLP,notion,Paper_Actionability}
+}
+
+@incollection{tax_PredictiveBusinessProcess_2017,
+  title = {Predictive {{Business Process Monitoring}} with {{LSTM Neural Networks}}},
+  booktitle = {Advanced {{Information Systems Engineering}}},
+  author = {Tax, Niek and Verenich, Ilya and La Rosa, Marcello and Dumas, Marlon},
+  editor = {Dubois, Eric and Pohl, Klaus},
+  year = {2017},
+  volume = {10253},
+  pages = {477--492},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-319-59536-8_30},
+  urldate = {2025-06-08},
+  isbn = {978-3-319-59535-1 978-3-319-59536-8},
+  langid = {english},
+  keywords = {notion,Paper_Actionability,Predictive Monitoring,Process Mining}
+}
+
+@inproceedings{taylor_EmergingRoleGlobal_2010,
+  title = {The Emerging Role of Global Situational Awareness 2.0 Resources in Disaster Response},
+  booktitle = {Sensors, and {{Command}}, {{Control}}, {{Communications}}, and {{Intelligence}} ({{C3I}}) {{Technologies}} for {{Homeland Security}} and {{Homeland Defense IX}}},
+  author = {Taylor, Carl},
+  year = {2010},
+  month = may,
+  volume = {7666},
+  pages = {213--220},
+  publisher = {SPIE},
+  doi = {10.1117/12.853113},
+  urldate = {2025-08-09},
+  keywords = {Other,Paper_Actionability}
+}
+
+@misc{tonekaboniWhatCliniciansWant2019,
+  title = {What {{Clinicians Want}}: {{Contextualizing Explainable Machine Learning}} for {{Clinical End Use}}},
+  shorttitle = {What {{Clinicians Want}}},
+  author = {Tonekaboni, Sana and Joshi, Shalmali and McCradden, Melissa D and Goldenberg, Anna},
+  year = {2019},
+  publisher = {arXiv},
+  doi = {10.48550/ARXIV.1905.05134},
+  urldate = {2025-06-08},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  langid = {english},
+  keywords = {Explainability,FOS: Computer and information sciences,Healthcare,Machine Learning (cs.LG),Machine Learning (stat.ML),notion,Paper_Actionability}
+}
+
+@inbook{trajkovska_GeneratingActionableInsights_2024,
+  title = {Generating {{Actionable Insights}} from {{Patient Medical Records}} and {{Structured Clinical Knowledge}}},
+  booktitle = {Studies in {{Health Technology}} and {{Informatics}}},
+  year = {2024},
+  month = apr,
+  publisher = {IOS Press},
+  issn = {0926-9630, 1879-8365},
+  doi = {10.3233/shti240015},
+  urldate = {2025-07-24},
+  collaborator = {Trajkovska, Natasha and Roiss, Michael and Bauernfeind, Sophie and Alnajdawi, Mohammad and Sandler, Simone and Herzmanek, Daniel and Winkler, Matthias and Haider, Michael and Krauss, Oliver},
+  copyright = {https://creativecommons.org/licenses/by-nc/4.0/},
+  isbn = {978-1-64368-516-8 978-1-64368-517-5},
+  langid = {english},
+  keywords = {Actionability,Healthcare,Paper_Actionability}
+}
+
+@incollection{tripathi_ExploringObjectCentric_2024,
+  title = {Exploring {{Object Centric Process Mining}} with {{MIMIC IV}}: {{Unlocking Insights}} in {{Healthcare}}},
+  shorttitle = {Exploring {{Object Centric Process Mining}} with {{MIMIC IV}}},
+  booktitle = {Advanced {{Information Systems Engineering Workshops}}},
+  author = {Tripathi, Anukriti and {Aneesh} and Shivam, Yuvraj and Pandey, Swetank and Vyas, Aamod and Vyas, O. P.},
+  editor = {Almeida, Jo{\~a}o Paulo A. and Di Ciccio, Claudio and Kalloniatis, Christos},
+  year = {2024},
+  volume = {521},
+  pages = {360--372},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-61003-5_30},
+  urldate = {2025-06-09},
+  isbn = {978-3-031-61002-8 978-3-031-61003-5},
+  langid = {english},
+  keywords = {Healthcare,notion,OCPM,Paper_Actionability,Process Mining}
+}
+
+@article{tripathi_InvestigatingElectricVehicle_2025,
+  title = {Investigating the Electric Vehicle Adoption Initiatives for Achieving Sustainable Development Goals},
+  author = {Tripathi, Shashi Kant and Kant, Ravi and Shankar, Ravi},
+  year = {2025},
+  month = jun,
+  journal = {Sustainable Futures},
+  volume = {9},
+  pages = {100469},
+  issn = {2666-1888},
+  doi = {10.1016/j.sftr.2025.100469},
+  urldate = {2025-08-09},
+  keywords = {bayesian BWM,c-means clustering,EDAS,EV adoption initiatives,Other,Paper_Actionability,spherical fuzzy sets,sustainable development goals}
+}
+
+@inproceedings{tshimula_MachineLearningBasedFramework_2018,
+  title = {Machine {{Learning-Based Framework}} for the {{Analysis}} of {{Project Viability}}},
+  booktitle = {2018 3rd {{International Conference}} on {{Computer}} and {{Communication Systems}} ({{ICCCS}})},
+  author = {Tshimula, Jean Marie and Togashi, Atsushi},
+  year = {2018},
+  month = apr,
+  pages = {80--84},
+  doi = {10.1109/CCOMS.2018.8463271},
+  urldate = {2025-08-09},
+  keywords = {Africa,Appraisal,big data,Business_Analysis,Economics,Investment,machine learning,natural language processing,Paper_Actionability,Pipelines,Portfolios,topic modeling}
+}
+
+@inproceedings{ustun_ActionableRecourseLinear_2019,
+  title = {Actionable {{Recourse}} in {{Linear Classification}}},
+  booktitle = {Proceedings of the {{Conference}} on {{Fairness}}, {{Accountability}}, and {{Transparency}}},
+  author = {Ustun, Berk and Spangher, Alexander and Liu, Yang},
+  year = {2019},
+  month = jan,
+  pages = {10--19},
+  publisher = {ACM},
+  address = {Atlanta GA USA},
+  doi = {10.1145/3287560.3287566},
+  urldate = {2025-06-08},
+  isbn = {978-1-4503-6125-5},
+  langid = {english},
+  keywords = {notion}
+}
+
+@book{vanderaalst_ProcessMiningHandbook_2022,
+  title = {Process {{Mining Handbook}}},
+  editor = {Van Der Aalst, Wil M. P. and Carmona, Josep},
+  year = {2022},
+  series = {Lecture {{Notes}} in {{Business Information Processing}}},
+  volume = {448},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-031-08848-3},
+  urldate = {2025-06-08},
+  copyright = {https://creativecommons.org/licenses/by/4.0},
+  isbn = {978-3-031-08847-6 978-3-031-08848-3},
+  langid = {english},
+  keywords = {Handbook,notion,Paper_Actionability,Process Mining}
+}
+
+@incollection{vanderaalst_ProcessMiningManifesto_2012,
+  title = {Process {{Mining Manifesto}}},
+  booktitle = {Business {{Process Management Workshops}}},
+  author = {Van Der Aalst, Wil and Adriansyah, Arya and De Medeiros, Ana Karla Alves and Arcieri, Franco and Baier, Thomas and Blickle, Tobias and Bose, Jagadeesh Chandra and Van Den Brand, Peter and Brandtjen, Ronald and Buijs, Joos and Burattin, Andrea and Carmona, Josep and Castellanos, Malu and Claes, Jan and Cook, Jonathan and Costantini, Nicola and Curbera, Francisco and Damiani, Ernesto and De Leoni, Massimiliano and Delias, Pavlos and Van Dongen, Boudewijn F. and Dumas, Marlon and Dustdar, Schahram and Fahland, Dirk and Ferreira, Diogo R. and Gaaloul, Walid and Van Geffen, Frank and Goel, Sukriti and G{\"u}nther, Christian and Guzzo, Antonella and Harmon, Paul and Ter Hofstede, Arthur and Hoogland, John and Ingvaldsen, Jon Espen and Kato, Koki and Kuhn, Rudolf and Kumar, Akhil and La Rosa, Marcello and Maggi, Fabrizio and Malerba, Donato and Mans, Ronny S. and Manuel, Alberto and McCreesh, Martin and Mello, Paola and Mendling, Jan and Montali, Marco and {Motahari-Nezhad}, Hamid R. and Zur Muehlen, Michael and {Munoz-Gama}, Jorge and Pontieri, Luigi and Ribeiro, Joel and Rozinat, Anne and Seguel P{\'e}rez, Hugo and Seguel P{\'e}rez, Ricardo and Sep{\'u}lveda, Marcos and Sinur, Jim and Soffer, Pnina and Song, Minseok and Sperduti, Alessandro and Stilo, Giovanni and Stoel, Casper and Swenson, Keith and Talamo, Maurizio and Tan, Wei and Turner, Chris and Vanthienen, Jan and Varvaressos, George and Verbeek, Eric and Verdonk, Marc and Vigo, Roberto and Wang, Jianmin and Weber, Barbara and Weidlich, Matthias and Weijters, Ton and Wen, Lijie and Westergaard, Michael and Wynn, Moe},
+  editor = {Daniel, Florian and Barkaoui, Kamel and Dustdar, Schahram},
+  year = {2012},
+  volume = {99},
+  pages = {169--194},
+  publisher = {Springer Berlin Heidelberg},
+  address = {Berlin, Heidelberg},
+  doi = {10.1007/978-3-642-28108-2_19},
+  urldate = {2025-06-08},
+  copyright = {http://www.springer.com/tdm},
+  isbn = {978-3-642-28107-5 978-3-642-28108-2},
+  langid = {english},
+  keywords = {notion,PA_Motivation,Paper_Actionability,Process Mining},
+  annotation = {Process Discovery is described as discovery of a map, however this suits very well the problem ahead, the map itself does not bring a person from one place to another - it is necessary to know where we actually are, where are we aiming and such contextual knowledge if e.g. we want to travel by train or on foot ...}
+}
+
+@incollection{vanderaalst_ProcessMiningVerification_2005,
+  title = {Process {{Mining}} and {{Verification}} of {{Properties}}: {{An Approach Based}} on {{Temporal Logic}}},
+  shorttitle = {Process {{Mining}} and {{Verification}} of {{Properties}}},
+  booktitle = {On the {{Move}} to {{Meaningful Internet Systems}} 2005: {{CoopIS}}, {{DOA}}, and {{ODBASE}}},
+  author = {Van Der Aalst, W. M. P. and De Beer, H. T. and Van Dongen, B. F.},
+  editor = {Hutchison, David and Kanade, Takeo and Kittler, Josef and Kleinberg, Jon M. and Mattern, Friedemann and Mitchell, John C. and Naor, Moni and Nierstrasz, Oscar and Pandu Rangan, C. and Steffen, Bernhard and Sudan, Madhu and Terzopoulos, Demetri and Tygar, Dough and Vardi, Moshe Y. and Weikum, Gerhard and Meersman, Robert and Tari, Zahir},
+  year = {2005},
+  volume = {3760},
+  pages = {130--147},
+  publisher = {Springer Berlin Heidelberg},
+  address = {Berlin, Heidelberg},
+  doi = {10.1007/11575771_11},
+  urldate = {2025-06-08},
+  isbn = {978-3-540-29736-9 978-3-540-32116-3},
+  langid = {english},
+  keywords = {notion,PA_Insights_Generation,PA_Motivation,Paper_Actionability,Process Mining,Temporal Logic}
+}
+
+@inproceedings{vanwijk_ValueVisualization_2005,
+  title = {The Value of Visualization},
+  booktitle = {{{VIS}} 05. {{IEEE Visualization}}, 2005.},
+  author = {{\noopsort{wijk}}{van Wijk}, J.J.},
+  year = {2005},
+  month = oct,
+  pages = {79--86},
+  doi = {10.1109/VISUAL.2005.1532781},
+  urldate = {2025-06-13},
+  keywords = {Application software,Art,Chromium,Computer graphics,Computer science,Costs,Data visualization,Explosions,Mathematics,Paper_Actionability,User interfaces,Visualization}
+}
+
+@article{verenich_PredictingProcessPerformance_2019,
+  title = {Predicting Process Performance: {{A}} White-box Approach Based on Process Models},
+  shorttitle = {Predicting Process Performance},
+  author = {Verenich, Ilya and Dumas, Marlon and La Rosa, Marcello and Nguyen, Hoang},
+  year = {2019},
+  month = jun,
+  journal = {Journal of Software: Evolution and Process},
+  volume = {31},
+  number = {6},
+  pages = {e2170},
+  issn = {2047-7473, 2047-7481},
+  doi = {10.1002/smr.2170},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {notion,PA_Explainability,Paper_Actionability,Predictive Monitoring,Process Mining},
+  annotation = {Important for explainability}
+}
+
+@inproceedings{verenich_WhiteboxPredictionProcess_2017,
+  title = {White-Box Prediction of Process Performance Indicators via Flow Analysis},
+  booktitle = {Proceedings of the 2017 {{International Conference}} on {{Software}} and {{System Process}}},
+  author = {Verenich, Ilya and Nguyen, Hoang and La Rosa, Marcello and Dumas, Marlon},
+  year = {2017},
+  month = jul,
+  pages = {85--94},
+  publisher = {ACM},
+  address = {Paris France},
+  doi = {10.1145/3084100.3084110},
+  urldate = {2025-06-08},
+  isbn = {978-1-4503-5270-3},
+  langid = {english},
+  keywords = {notion,PA_Explainability,Paper_Actionability,Predictive Monitoring,Process Mining}
+}
+
+@article{verma_CounterfactualExplanationsAlgorithmic_2024,
+  title = {Counterfactual {{Explanations}} and {{Algorithmic Recourses}} for {{Machine Learning}}: {{A Review}}},
+  shorttitle = {Counterfactual {{Explanations}} and {{Algorithmic Recourses}} for {{Machine Learning}}},
+  author = {Verma, Sahil and Boonsanong, Varich and Hoang, Minh and Hines, Keegan and Dickerson, John and Shah, Chirag},
+  year = {2024},
+  month = oct,
+  journal = {ACM Comput. Surv.},
+  volume = {56},
+  number = {12},
+  pages = {312:1--312:42},
+  issn = {0360-0300},
+  doi = {10.1145/3677119},
+  urldate = {2025-06-09},
+  keywords = {Causality,Machine Learning,notion,Paper_Actionability}
+}
+
+@article{vidwans_FrameworkGenomicBiomarker_2014,
+  title = {A Framework for Genomic Biomarker Actionability and Its Use in Clinical Decision Making},
+  author = {Vidwans, Smruti J. and Turski, Michelle L. and Janku, Filip and {Garrido-Laguna}, Ignacio and Munoz, Javier and Schwab, Richard and Subbiah, Vivek and Rodon, Jordi and Kurzrock, Razelle},
+  year = {2014},
+  month = oct,
+  journal = {Oncoscience},
+  volume = {1},
+  number = {10},
+  pages = {614--623},
+  issn = {2331-4737},
+  doi = {10.18632/oncoscience.90},
+  urldate = {2025-08-09},
+  pmcid = {PMC4278279},
+  pmid = {25593991},
+  keywords = {Healthcare,Paper_Actionability}
+}
+
+@inproceedings{volzer_FreshApproachAnalyze_2023,
+  title = {A {{Fresh Approach}} to {{Analyze Process Outcomes}}},
+  booktitle = {2023 5th {{International Conference}} on {{Process Mining}} ({{ICPM}})},
+  author = {V{\"o}lzer, Hagen and Zerbato, Francesca and Sulzer, Timothy and Weber, Barbara},
+  year = {2023},
+  month = oct,
+  pages = {97--104},
+  publisher = {IEEE},
+  address = {Rome, Italy},
+  doi = {10.1109/ICPM60904.2023.10271968},
+  urldate = {2025-06-09},
+  copyright = {https://doi.org/10.15223/policy-029},
+  isbn = {979-8-3503-5839-1},
+  langid = {english},
+  keywords = {A_Insights_Generation,notion,Paper_Actionability,Process Mining}
+}
+
+@article{vombrocke_ProcessScienceInterdisciplinary_2021,
+  title = {Process {{Science}}: {{The Interdisciplinary Study}} of {{Continuous Change}}},
+  shorttitle = {Process {{Science}}},
+  author = {Vom Brocke, Jan and Van Der Aalst, Wil Mp and Grisold, Thomas and Kremser, Waldemar and Mendling, Jan and Pentland, Brian and Recker, Jan and Roeglinger, Maximilian and Rosemann, Michael and Weber, Barbara},
+  year = {2021},
+  journal = {SSRN Electronic Journal},
+  issn = {1556-5068},
+  doi = {10.2139/ssrn.3916817},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Paper_Actionability,Process Mining},
+  annotation = {Definition of Intervention}
+}
+
+@article{vuckovic_SenseMakingGeneration_2022,
+  title = {On {{Sense Making}} and the {{Generation}} of {{Knowledge}} in {{Visual Analytics}}},
+  author = {Vuckovic, Milena and Schmidt, Johanna},
+  year = {2022},
+  month = oct,
+  journal = {Analytics},
+  volume = {1},
+  number = {2},
+  pages = {98--116},
+  issn = {2813-2203},
+  doi = {10.3390/analytics1020008},
+  urldate = {2025-06-08},
+  copyright = {https://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  keywords = {Knowledge,notion,Paper_Actionability,Visualization}
+}
+
+@article{wachter_CounterfactualExplanationsOpening_2017,
+  title = {Counterfactual {{Explanations Without Opening}} the {{Black Box}}: {{Automated Decisions}} and the {{GDPR}}},
+  shorttitle = {Counterfactual {{Explanations Without Opening}} the {{Black Box}}},
+  author = {Wachter, Sandra and Mittelstadt, Brent and Russell, Chris},
+  year = {2017},
+  journal = {SSRN Electronic Journal},
+  issn = {1556-5068},
+  doi = {10.2139/ssrn.3063289},
+  urldate = {2025-06-08},
+  langid = {english},
+  keywords = {Actionability,Causality,Explainability,notion,Paper_Actionability}
+}
+
+@inproceedings{weber_LeveragingDigitalTrace_2024,
+  title = {Leveraging {{Digital Trace Data}} to~{{Investigate}} and~{{Support Human-Centered Work Processes}}},
+  booktitle = {Evaluation of {{Novel Approaches}} to {{Software Engineering}}},
+  author = {Weber, Barbara and {Abbad-Andaloussi}, Amine and Franceschetti, Marco and Seiger, Ronny and V{\"o}lzer, Hagen and Zerbato, Francesca},
+  editor = {Kaindl, Hermann and Mannion, Mike and Maciaszek, Leszek A.},
+  year = {2024},
+  pages = {1--23},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-64182-4_1},
+  isbn = {978-3-031-64182-4},
+  langid = {english},
+  keywords = {Digital trace data,Human-centered work processes,notion,Paper_Actionability,Process Mining,Process science}
+}
+
+@inproceedings{weller_ConceptualFrameworkPrescriptive_2023,
+  title = {Conceptual {{Framework}} for {{Prescriptive Analytics Based}} on {{Decision Theory}} in {{Smart Factories}}},
+  booktitle = {2023 {{IEEE International Conference}} on {{Advances}} in {{Data-Driven Analytics And Intelligent Systems}} ({{ADACIS}})},
+  author = {Weller, Julian and Migenda, Nico and Wegel, Arthur and Kohlhase, Martin and Schenck, Wolfram and Dumitrescu, Roman},
+  year = {2023},
+  month = nov,
+  pages = {1--7},
+  doi = {10.1109/ADACIS59737.2023.10424368},
+  urldate = {2025-08-09},
+  keywords = {Business_Analysis,data driven decision making,Decision making,decision theory,framework,Intelligent systems,Maintenance engineering,Paper_Actionability,prescriptive analytics,Product design,Production management,Quality assessment,smart factory,Smart manufacturing}
+}
+
+@article{wu_GrandChallengesVisual_2023,
+  title = {Grand {{Challenges}} in {{Visual Analytics Applications}}},
+  author = {Wu, Aoyu and Deng, Dazhen and Chen, Min and Liu, Shixia and Keim, Daniel and Maciejewski, Ross and Miksch, Silvia and Strobelt, Hendrik and Vi{\'e}gas, Fernanda and Wattenberg, Martin},
+  year = {2023},
+  month = sep,
+  journal = {IEEE Computer Graphics and Applications},
+  volume = {43},
+  number = {5},
+  pages = {83--90},
+  issn = {1558-1756},
+  doi = {10.1109/MCG.2023.3284620},
+  urldate = {2025-06-13},
+  keywords = {Artificial intelligence,Bioinformatics,Ecosystems,Paper_Actionability,Research and development,Visual analytics,Visualization}
+}
+
+@incollection{zerbato_FrameworkSupportValidation_2024,
+  title = {A {{Framework}} to {{Support}} the {{Validation}} of {{Process Mining Inquiries}}},
+  booktitle = {Business {{Process Management Forum}}},
+  author = {Zerbato, Francesca and Franceschetti, Marco and Weber, Barbara},
+  editor = {Marrella, Andrea and Resinas, Manuel and Jans, Mieke and Rosemann, Michael},
+  year = {2024},
+  volume = {526},
+  pages = {249--266},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  urldate = {2025-06-09},
+  isbn = {978-3-031-70417-8 978-3-031-70418-5},
+  langid = {english},
+  keywords = {notion,PA_Insights_Generation,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@inproceedings{zerbato_OriginQuestionsProcess_2022,
+  title = {On the~{{Origin}} of~{{Questions}} in~{{Process Mining Projects}}},
+  booktitle = {Enterprise {{Design}}, {{Operations}}, and {{Computing}}},
+  author = {Zerbato, Francesca and Koorn, Jelmer J. and Beerepoot, Iris and Weber, Barbara and Reijers, Hajo A.},
+  editor = {Almeida, Jo{\~a}o Paulo A. and Karastoyanova, Dimka and Guizzardi, Giancarlo and Montali, Marco and Maggi, Fabrizio Maria and Fonseca, Claudenir M.},
+  year = {2022},
+  pages = {165--181},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-031-17604-3_10},
+  isbn = {978-3-031-17604-3},
+  langid = {english},
+  keywords = {Interview study,notion,Paper_Actionability,Process Mining,Process mining methodology,Question development}
+}
+
+@article{zerbato_PrefaceSpecialIssue_2023,
+  title = {Preface: {{Special Issue}} on {{Knowledge Representation}} and {{Reasoning}} for {{Healthcare Processes}}},
+  shorttitle = {Preface},
+  author = {Zerbato, Francesca and Pufahl, Luise and Teije, Annette Ten},
+  year = {2023},
+  month = sep,
+  journal = {Artificial Intelligence in Medicine},
+  volume = {143},
+  pages = {102631},
+  issn = {09333657},
+  doi = {10.1016/j.artmed.2023.102631},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {Healthcare,notion,Paper_Actionability,Process Mining}
+}
+
+@inproceedings{zerbato_ProcessMiningPractices_2022,
+  title = {Process {{Mining Practices}}: {{Evidence}} from~{{Interviews}}},
+  shorttitle = {Process {{Mining Practices}}},
+  booktitle = {Business {{Process Management}}},
+  author = {Zerbato, Francesca and Soffer, Pnina and Weber, Barbara},
+  editor = {Di Ciccio, Claudio and Dijkman, Remco and {\noopsort{r{\'i}o ortega}}{del R{\'i}o Ortega}, Adela and {Rinderle-Ma}, Stefanie},
+  year = {2022},
+  pages = {268--285},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-031-16103-2_19},
+  isbn = {978-3-031-16103-2},
+  langid = {english},
+  keywords = {Analysis strategies,Interview study,Mining and analysis stage,notion,PA_Insights_Generation,PA_Motivation,Paper_Actionability,Process Mining}
+}
+
+@inproceedings{zerbato_SupportingProvenanceData_2023,
+  title = {Supporting {{Provenance}} and~{{Data Awareness}} in~{{Exploratory Process Mining}}},
+  booktitle = {Advanced {{Information Systems Engineering}}},
+  author = {Zerbato, Francesca and Burattin, Andrea and V{\"o}lzer, Hagen and Becker, Paul Nelson and Boscaini, Elia and Weber, Barbara},
+  editor = {Indulska, Marta and {Reinhartz-Berger}, Iris and Cetina, Carlos and Pastor, Oscar},
+  year = {2023},
+  pages = {454--470},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  doi = {10.1007/978-3-031-34560-9_27},
+  isbn = {978-3-031-34560-9},
+  langid = {english},
+  keywords = {Analytic Provenance,Data Awareness,Exploratory Analysis,notion,Paper_Actionability,Process Mining,System Requirements and Design,User Support}
+}
+
+@article{zhouEvaluatingQualityMachine2021,
+  title = {Evaluating the {{Quality}} of {{Machine Learning Explanations}}: {{A Survey}} on {{Methods}} and {{Metrics}}},
+  shorttitle = {Evaluating the {{Quality}} of {{Machine Learning Explanations}}},
+  author = {Zhou, Jianlong and Gandomi, Amir H. and Chen, Fang and Holzinger, Andreas},
+  year = {2021},
+  month = mar,
+  journal = {Electronics},
+  volume = {10},
+  number = {5},
+  pages = {593},
+  issn = {2079-9292},
+  doi = {10.3390/electronics10050593},
+  urldate = {2025-06-08},
+  copyright = {https://creativecommons.org/licenses/by/4.0/},
+  langid = {english},
+  keywords = {Evaluation,Explainability,Machine Learning,notion,Paper_Actionability}
+}
+
+@inproceedings{zimmermann_ProcessMiningChallenges_2022,
+  title = {Process {{Mining Challenges Perceived}} by~{{Analysts}}: {{An Interview Study}}},
+  shorttitle = {Process {{Mining Challenges Perceived}} by~{{Analysts}}},
+  booktitle = {Enterprise, {{Business-Process}} and {{Information Systems Modeling}}},
+  author = {Zimmermann, Lisa and Zerbato, Francesca and Weber, Barbara},
+  editor = {Augusto, Adriano and Gill, Asif and Bork, Dominik and Nurcan, Selmin and {Reinhartz-Berger}, Iris and Schmidt, Rainer},
+  year = {2022},
+  pages = {3--17},
+  publisher = {Springer International Publishing},
+  address = {Cham},
+  doi = {10.1007/978-3-031-07475-2_1},
+  isbn = {978-3-031-07475-2},
+  langid = {english},
+  keywords = {Challenges,Interview study,notion,PA_Motivation,Paper_Actionability,Process analysis,Process Mining,Work practices}
+}
+
+@article{zimmermann_ProcessOrientedApproachAnalyze_2025,
+  title = {A {{Process}}-{{Oriented Approach}} to {{Analyze Analysts}}' {{Use}} of {{Visualizations}}: {{Revealing Insights}} into the {{What}}, {{When}}, and {{How}}},
+  shorttitle = {A {{Process}}-{{Oriented Approach}} to {{Analyze Analysts}}' {{Use}} of {{Visualizations}}},
+  author = {Zimmermann, L. and Zerbato, F. and Vrotsou, K. and Weber, B.},
+  year = {2025},
+  month = may,
+  journal = {Computer Graphics Forum},
+  pages = {e70104},
+  issn = {0167-7055, 1467-8659},
+  doi = {10.1111/cgf.70104},
+  urldate = {2025-06-09},
+  langid = {english},
+  keywords = {A_Insights_Generation,notion,Paper_Actionability,Process Mining,Visualization}
+}
+
+@preamble{ "\providecommand{\noopsort}[1]{} " }

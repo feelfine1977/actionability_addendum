@@ -1,0 +1,258 @@
+<h1>Paper Summary</h1>
+
+<!--META_START-->
+
+<p>Title: Learning analytics dashboard: a tool for providing actionable insights to learners  </p>
+
+<p>Authors: Teo Susnjak, Gomathy Suganya Ramaswami, Anuradha Mathrani  </p>
+
+<p>DOI: https://doi.org/10.1186/s41239-021-00313-7  </p>
+
+<p>Year: 2022  </p>
+
+<p>Publication Type: Journal  </p>
+
+<p>Discipline/Domain: Educational Technology / Learning Analytics  </p>
+
+<p>Subdomain/Topic: Learning Analytics Dashboards (LADs), Actionable Insights, Predictive and Prescriptive Analytics  </p>
+
+<p>Eligibility: Eligible  </p>
+
+<p>Overall Relevance Score: 92  </p>
+
+<p>Operationalization Score: 95  </p>
+
+<p>Contains Definition of Actionability: Yes (explicit and implicit)  </p>
+
+<p>Contains Systematic Features/Dimensions: Yes  </p>
+
+<p>Contains Explainability: Yes  </p>
+
+<p>Contains Interpretability: Yes  </p>
+
+<p>Contains Framework/Model: Yes (proposed LAD integrating descriptive, predictive, prescriptive, interpretability, counterfactuals)  </p>
+
+<p>Operationalization Present: Yes  </p>
+
+<p>Primary Methodology: Mixed Methods (Systematic Literature Review + System Design)  </p>
+
+<p>Study Context: Higher Education, learner-facing dashboards  </p>
+
+<p>Geographic/Institutional Context: Massey University, New Zealand  </p>
+
+<p>Target Users/Stakeholders: Students (primary), instructors, higher education institutions  </p>
+
+<p>Primary Contribution Type: Conceptual framework + prototype implementation  </p>
+
+<p>CL: Yes  </p>
+
+<p>CR: Yes  </p>
+
+<p>FE: Yes  </p>
+
+<p>TI: Partial  </p>
+
+<p>EX: Yes  </p>
+
+<p>GA: Yes  </p>
+
+<p>Reason if Not Eligible: N/A  </p>
+
+<!--META_END-->
+
+<p><strong>Title:</strong>  </p>
+
+<p>Learning analytics dashboard: a tool for providing actionable insights to learners</p>
+
+<p><strong>Authors:</strong>  </p>
+
+<p>Teo Susnjak, Gomathy Suganya Ramaswami, Anuradha Mathrani</p>
+
+<p><strong>DOI:</strong>  </p>
+
+<p>https://doi.org/10.1186/s41239-021-00313-7</p>
+
+<p><strong>Year:</strong>  </p>
+
+<p>2022</p>
+
+<p><strong>Publication Type:</strong>  </p>
+
+<p>Journal</p>
+
+<p><strong>Discipline/Domain:</strong>  </p>
+
+<p>Educational Technology / Learning Analytics</p>
+
+<p><strong>Subdomain/Topic:</strong>  </p>
+
+<p>Learning Analytics Dashboards, Actionable Insights, Predictive and Prescriptive Analytics</p>
+
+<p><strong>Contextual Background:</strong>  </p>
+
+<p>The paper addresses the design, capabilities, and challenges of learner-facing Learning Analytics Dashboards (LADs) in higher education. It explores how to move beyond descriptive analytics towards predictive and data-driven prescriptive analytics, incorporating interpretability and explainability to enhance trust and drive behavioral change in learners.</p>
+
+<p><strong>Geographic/Institutional Context:</strong>  </p>
+
+<p>Massey University, New Zealand</p>
+
+<p><strong>Target Users/Stakeholders:</strong>  </p>
+
+<p>Students (primary), instructors, institutional decision-makers</p>
+
+<p><strong>Primary Methodology:</strong>  </p>
+
+<p>Mixed Methods (Systematic Literature Review + Prototype Dashboard Design &amp; Implementation)</p>
+
+<p><strong>Primary Contribution Type:</strong>  </p>
+
+<p>Conceptual framework, synthesis of literature, and novel LAD prototype integrating multiple analytics layers.</p>
+
+<hr />
+
+<h2>General Summary of the Paper</h2>
+
+<p>The study systematically reviews 17 recently published LADs (2018–2021) to assess their capabilities, focusing on descriptive, predictive, and prescriptive analytics. Findings show most LADs rely on descriptive analytics; few integrate predictive analytics, and none deploy data-driven prescriptive analytics. The authors identify challenges in operationalizing LADs, such as representation &amp; actions, ethics, and agility. Based on identified gaps, they design a state-of-the-art LAD incorporating descriptive, predictive, and prescriptive components, with transparency through model interpretability, explainability, and counterfactuals. This prototype aims to provide learners with actionable insights to adjust learning behaviors. It is currently in pilot trials.</p>
+
+<hr />
+
+<h2>Eligibility</h2>
+
+<p>Eligible for inclusion: <strong>Yes</strong>  </p>
+
+<hr />
+
+<h2>How Actionability is Understood</h2>
+
+<p>Actionability is framed as the LAD’s ability to provide learners with insights that can trigger informed, specific behavioral changes to improve learning outcomes.  </p>
+
+<blockquote>
+  <p>“…understand why a model produced given predictions… what insights can be derived… in order to trigger actionable behavioral adjustments.” (p. 8)  </p>
+</blockquote>
+
+<blockquote>
+  <p>“Prescriptive outputs… tailored to each learner… issue advice on behavioral adjustments and learning strategies… to maximize learning outcomes…” (p. 4)  </p>
+</blockquote>
+
+<hr />
+
+<h2>What Makes Something Actionable</h2>
+
+<ul>
+<li><p>Interpretability and explainability of predictive models.</p></li>
+<li><p>Presentation of counterfactuals showing how specific changes could improve outcomes.</p></li>
+<li><p>Contextually relevant, personalized recommendations.</p></li>
+<li><p>Evidence-based and data-driven suggestions.</p></li>
+<li><p>Clarity and avoidance of cognitive overload.</p></li>
+<li><p>Integration of predictive accuracy and confidence communication.</p></li>
+<li><p>Goal alignment with learner objectives.</p></li>
+</ul>
+
+<hr />
+
+<h2>How Actionability is Achieved / Operationalized</h2>
+
+<ul>
+<li><p><strong>Framework/Approach Name(s):</strong> Proposed Multi-Panel LAD with descriptive, predictive, prescriptive, and interpretability layers.  </p></li>
+<li><p><strong>Methods/Levers:</strong> Machine learning models (CatBoost, scikit-learn), model interpretability tools (Anchors), counterfactual generation (Dice-ml).  </p></li>
+<li><p><strong>Operational Steps / Workflow:</strong> Data collection from LMS (Moodle) → preprocessing → predictive modeling → feature importance analysis → counterfactual generation → visualization in Power BI dashboard panels.  </p></li>
+<li><p><strong>Data &amp; Measures:</strong> Engagement metrics, assignment/test scores, demographic info, predictive risk scores, model accuracy, key predictive features, recommended behavioral changes.  </p></li>
+<li><p><strong>Implementation Context:</strong> Higher education institution pilot, 20 classes, ~4000 student dataset.  </p></li>
+</ul>
+
+<blockquote>
+  <p>“…counterfactuals indicate… minimal changes… would produce… more positive outcomes…” (p. 17)  </p>
+</blockquote>
+
+<blockquote>
+  <p>“…conversion of a black-box predictive model into a glass-box, human interpretable model…” (p. 16)  </p>
+</blockquote>
+
+<hr />
+
+<h2>Dimensions and Attributes of Actionability (Authors’ Perspective)</h2>
+
+<ul>
+<li><p><strong>CL (Clarity):</strong> Yes — Minimal use of colors, clear data-to-ink ratio (p. 17).  </p></li>
+<li><p><strong>CR (Contextual Relevance):</strong> Yes — Learner-specific metrics and comparisons (p. 16).  </p></li>
+<li><p><strong>FE (Feasibility):</strong> Yes — Recommendations based on minimal changes in controllable factors (p. 17).  </p></li>
+<li><p><strong>TI (Timeliness):</strong> Partial — Emphasis on early predictions for timely intervention, but no explicit real-time claim (p. 18).  </p></li>
+<li><p><strong>EX (Explainability):</strong> Yes — Feature importance, anchors, counterfactuals (p. 17–18).  </p></li>
+<li><p><strong>GA (Goal Alignment):</strong> Yes — Advice aimed at maximizing course completion and learning outcomes (p. 4, p. 17).  </p></li>
+<li><p><strong>Other Dimensions:</strong> Ethical transparency, cognitive load minimization.</p></li>
+</ul>
+
+<hr />
+
+<h2>Theoretical or Conceptual Foundations</h2>
+
+<ul>
+<li><p>Explainable AI (XAI)</p></li>
+<li><p>Counterfactual explanations (Wachter et al., 2017)</p></li>
+<li><p>Learning analytics layers (descriptive, predictive, prescriptive)</p></li>
+<li><p>Cognitive load theory in dashboard design (Tufte, 2001; Bera, 2016)</p></li>
+</ul>
+
+<hr />
+
+<h2>Indicators or Metrics for Actionability</h2>
+
+<ul>
+<li><p>Predictive model accuracy (%)</p></li>
+<li><p>Feature importance rankings</p></li>
+<li><p>Risk classification (high/low)</p></li>
+<li><p>Minimal change thresholds for outcome improvement</p></li>
+</ul>
+
+<hr />
+
+<h2>Barriers and Enablers to Actionability</h2>
+
+<ul>
+<li><p><strong>Barriers:</strong> Lack of interpretability in most LADs, technical complexity, concept drift, small datasets, ethical risks of misclassification.  </p></li>
+<li><p><strong>Enablers:</strong> Emerging XAI tools, counterfactual generation methods, integrated data sources, agile institutional processes.</p></li>
+</ul>
+
+<hr />
+
+<h2>Relation to Existing Literature</h2>
+
+<p>Positions itself as first LAD to fully integrate descriptive, predictive, and data-driven prescriptive analytics with interpretability and counterfactuals. Critiques existing LADs for limited predictive capabilities and lack of actionable, personalized recommendations.</p>
+
+<hr />
+
+<h2>Summary</h2>
+
+<p>This paper identifies significant gaps in the ability of existing LADs to deliver actionable insights, emphasizing that most are confined to descriptive analytics. It defines actionability as the provision of interpretable, explainable, personalized, and contextually relevant recommendations that learners can feasibly implement to improve outcomes. The proposed LAD operationalizes this by integrating descriptive, predictive, and prescriptive analytics, enhanced with model transparency and counterfactual-based recommendations. This combination is intended to bridge the gap between insight generation and behavior change, setting a benchmark for future LAD development in higher education.</p>
+
+<hr />
+
+<h2>Scores</h2>
+
+<ul>
+<li><p><strong>Overall Relevance Score:</strong> 92 — Strong conceptual framing of actionability with explicit features and dimensions tied to it.  </p></li>
+<li><p><strong>Operationalization Score:</strong> 95 — Fully articulated operational model with specific tools, data sources, processes, and implementation details.</p></li>
+</ul>
+
+<hr />
+
+<h2>Supporting Quotes from the Paper</h2>
+
+<ul>
+<li><p>“Models need to possess explanatory characteristics… in order to trigger actionable behavioral adjustments.” (p. 8)  </p></li>
+<li><p>“Prescriptive outputs… tailored to each learner… advice on behavioral adjustments…” (p. 4)  </p></li>
+<li><p>“Counterfactuals indicate… minimal changes… would produce… more positive predictive outcomes.” (p. 17)  </p></li>
+<li><p>“Conversion of a black-box predictive model into a glass-box… so that they can understand how their prediction is being derived.” (p. 16)  </p></li>
+</ul>
+
+<hr />
+
+<h2>Actionability References to Other Papers</h2>
+
+<ul>
+<li><p>Wachter et al. (2017) – Counterfactual explanations  </p></li>
+<li><p>Ribeiro et al. (2018) – Anchors for interpretability  </p></li>
+<li><p>Adadi &amp; Berrada (2018) – Explainable AI  </p></li>
+<li><p>Baneres et al. (2019, 2021) – Early warning systems and predictive analytics in LA  </p></li>
+<li><p>Rets et al. (2021), Valle et al. (2021) – Need for prescriptive recommendations in LADs</p></li>
+</ul>

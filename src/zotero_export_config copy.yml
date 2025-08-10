@@ -1,0 +1,24 @@
+# Example configuration for zotero_actionability_export.py
+
+# Zotero API configuration
+library_id: "xxx" # your Zotero user or group ID
+library_type: "xxx" # "user" or "group"
+api_key: "xxx" # set this securely in your env or here
+collection: "Actionability_Screening"
+
+# Tag filter
+tags: ["Paper_Actionability"]
+tag_mode: "all"
+tag_scope: "either" # "either" | "note" | "parent"
+
+# Accept any note (debug): include all notes regardless of '# Paper Summary' or META block
+accept_any_note: false
+
+# Output
+excel_columns: "Title,Year,Domain,Eligibility,Relevance Score,CL,CR,FE,TI,EX,GA"
+out_prefix: "actionability_export"
+enable_reportlab_fallback: true
+
+# Per-note exports
+per_note_pdf: true
+per_note_dir: "actionability_export_notes"
