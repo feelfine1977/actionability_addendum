@@ -1,0 +1,31 @@
+Domain,NumPapers,DefCount,ActionabilityCount,AvgOp,AvgRel
+AI / Recommender Systems,1,1,1,95.0,90.0
+AI / Recourse,1,1,1,95.0,92.0
+Urban Sustainability,1,1,1,95.0,90.0
+Situation Awareness / Spatiotemporal,1,1,1,95.0,95.0
+Security Studies / HUMINT,1,1,1,80.0,88.0
+Science Communication,1,1,1,90.0,88.0
+Scholarly Publishing / Semantic Web,1,1,1,95.0,90.0
+Public Health / Disaster Response,1,1,1,90.0,85.0
+Process Mining / BPM,1,0,0,30.0,20.0
+Oncology / Precision Medicine,1,1,1,95.0,90.0
+Oncology / Genomics,1,1,1,90.0,82.0
+Medical Genetics / Policy,1,1,1,75.0,88.0
+Medical Genetics / Pediatrics,1,1,1,88.0,92.0
+Management / Org Studies,1,1,1,88.0,92.0
+IoT / Stream Reasoning,1,1,1,70.0,88.0
+Healthcare Systems / Precision Medicine,1,1,1,70.0,85.0
+Healthcare (Patient Experience),1,1,1,65.0,78.0
+Healthcare (Clinical Guidelines),1,1,1,80.0,88.0
+Environmental / Ecological Wisdom,1,1,1,85.0,90.0
+Environmental / Climate Science,1,1,1,95.0,95.0
+Education / School Leadership,1,1,1,88.0,90.0
+Education / Learning Analytics,1,1,1,90.0,88.0
+Education / Knowledge Management,1,1,1,95.0,92.0
+Education / IoT & EDM,1,1,1,95.0,92.0
+Data Mining / Visualization,1,1,1,90.0,88.0
+Data Mining / AKD (Business),1,1,1,78.0,86.0
+Dashboards / Data Visualization,1,1,1,88.0,92.0
+Cybersecurity / Policy,1,1,1,90.0,88.0
+Cybersecurity (CTI),1,1,1,92.0,95.0
+Web Usage Mining / AKD,1,1,1,82.0,78.0

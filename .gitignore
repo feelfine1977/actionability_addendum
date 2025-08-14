@@ -210,3 +210,4 @@ __marimo__/
 #data folder
 data/
 src/zotero_export_config.yml
+results/archive/
